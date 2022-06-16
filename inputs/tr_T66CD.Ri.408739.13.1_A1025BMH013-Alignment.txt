@@ -1,0 +1,973 @@
+>
+>Homo sapiens RNA polymerase mitochondrial (POLRMT), mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1519473742|NM_005035.4 Length: 3771
+Range 1: 2621 to 2645
+
+Score:42.1 bits(21), Expect:0.006, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1     GAGGTGATGGATGACATCTTGGACT  25
+             |||||||||||||||||| ||||||
+Sbjct  2621  GAGGTGATGGATGACATCCTGGACT  2645
+
+
+
+
+>PREDICTED: Homo sapiens RNA polymerase mitochondrial (POLRMT), transcript variant X3, misc_RNA
+Sequence ID: gi|1370475304|XR_001753707.2 Length: 4176
+Range 1: 2597 to 2621
+
+Score:42.1 bits(21), Expect:0.006, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1     GAGGTGATGGATGACATCTTGGACT  25
+             |||||||||||||||||| ||||||
+Sbjct  2597  GAGGTGATGGATGACATCCTGGACT  2621
+
+
+
+
+>PREDICTED: Homo sapiens RNA polymerase mitochondrial (POLRMT), transcript variant X2, mRNA
+Sequence ID: gi|1370475302|XM_005259580.4 Length: 3768
+Range 1: 2597 to 2621
+
+Score:42.1 bits(21), Expect:0.006, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1     GAGGTGATGGATGACATCTTGGACT  25
+             |||||||||||||||||| ||||||
+Sbjct  2597  GAGGTGATGGATGACATCCTGGACT  2621
+
+
+
+
+>PREDICTED: Homo sapiens RNA polymerase mitochondrial (POLRMT), transcript variant X1, misc_RNA
+Sequence ID: gi|1370475301|XR_001753706.2 Length: 4211
+Range 1: 2597 to 2621
+
+Score:42.1 bits(21), Expect:0.006, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1     GAGGTGATGGATGACATCTTGGACT  25
+             |||||||||||||||||| ||||||
+Sbjct  2597  GAGGTGATGGATGACATCCTGGACT  2621
+
+
+
+
+>PREDICTED: Homo sapiens RNA polymerase mitochondrial (POLRMT), transcript variant X4, misc_RNA
+Sequence ID: gi|1034608223|XR_001753708.1 Length: 4480
+Range 1: 2866 to 2890
+
+Score:42.1 bits(21), Expect:0.006, 
+Identities:24/25(96%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1     GAGGTGATGGATGACATCTTGGACT  25
+             |||||||||||||||||| ||||||
+Sbjct  2866  GAGGTGATGGATGACATCCTGGACT  2890
+
+
+
+
+>Homo sapiens neuron navigator 2 (NAV2), transcript variant 3, mRNA.
+Sequence ID: gi|1802776426|NM_001111018.2 Length: 11097
+Range 1: 7716 to 7731
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  7716  GATGACATCTTGGACT  7731
+
+
+
+
+>Homo sapiens neuron navigator 2 (NAV2), transcript variant 2, mRNA.
+Sequence ID: gi|1677529873|NM_145117.5 Length: 11492
+Range 1: 8111 to 8126
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8111  GATGACATCTTGGACT  8126
+
+
+
+
+>Homo sapiens neuron navigator 2 (NAV2), transcript variant 4, mRNA.
+Sequence ID: gi|1677501839|NM_001111019.3 Length: 8082
+Range 1: 4701 to 4716
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  4701  GATGACATCTTGGACT  4716
+
+
+
+
+>Homo sapiens neuron navigator 2 (NAV2), transcript variant 5, mRNA.
+Sequence ID: gi|1677501794|NM_001244963.2 Length: 11669
+Range 1: 8288 to 8303
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8288  GATGACATCTTGGACT  8303
+
+
+
+
+>Homo sapiens neuron navigator 2 (NAV2), transcript variant 1, mRNA.
+Sequence ID: gi|1523964322|NM_182964.6 Length: 11501
+Range 1: 8120 to 8135
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8120  GATGACATCTTGGACT  8135
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X18, mRNA
+Sequence ID: gi|1370460578|XM_017018524.2 Length: 11166
+Range 1: 7785 to 7800
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  7785  GATGACATCTTGGACT  7800
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X13, mRNA
+Sequence ID: gi|1370460577|XM_017018521.2 Length: 11447
+Range 1: 8066 to 8081
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8066  GATGACATCTTGGACT  8081
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X12, mRNA
+Sequence ID: gi|1370460576|XM_006718366.4 Length: 10951
+Range 1: 7570 to 7585
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  7570  GATGACATCTTGGACT  7585
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X11, mRNA
+Sequence ID: gi|1370460575|XM_011520450.3 Length: 11456
+Range 1: 8075 to 8090
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8075  GATGACATCTTGGACT  8090
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X10, mRNA
+Sequence ID: gi|1370460573|XM_024448758.1 Length: 11371
+Range 1: 7990 to 8005
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  7990  GATGACATCTTGGACT  8005
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X9, mRNA
+Sequence ID: gi|1370460572|XM_017018520.2 Length: 11299
+Range 1: 7918 to 7933
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  7918  GATGACATCTTGGACT  7933
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X8, mRNA
+Sequence ID: gi|1370460571|XM_011520449.3 Length: 11492
+Range 1: 8111 to 8126
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8111  GATGACATCTTGGACT  8126
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X7, mRNA
+Sequence ID: gi|1370460570|XM_011520448.3 Length: 11537
+Range 1: 8156 to 8171
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8156  GATGACATCTTGGACT  8171
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X6, mRNA
+Sequence ID: gi|1370460569|XM_011520447.3 Length: 11555
+Range 1: 8174 to 8189
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8174  GATGACATCTTGGACT  8189
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X5, mRNA
+Sequence ID: gi|1370460568|XM_011520446.3 Length: 11558
+Range 1: 8177 to 8192
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8177  GATGACATCTTGGACT  8192
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X4, mRNA
+Sequence ID: gi|1370460567|XM_006718365.4 Length: 11567
+Range 1: 8186 to 8201
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8186  GATGACATCTTGGACT  8201
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X3, mRNA
+Sequence ID: gi|1370460566|XM_006718364.4 Length: 11597
+Range 1: 8216 to 8231
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8216  GATGACATCTTGGACT  8231
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X2, mRNA
+Sequence ID: gi|1370460565|XM_011520445.3 Length: 11600
+Range 1: 8219 to 8234
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8219  GATGACATCTTGGACT  8234
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X1, mRNA
+Sequence ID: gi|1370460564|XM_011520444.3 Length: 11657
+Range 1: 8276 to 8291
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8276  GATGACATCTTGGACT  8291
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X26, mRNA
+Sequence ID: gi|1034576163|XM_011520454.2 Length: 7911
+Range 1: 4530 to 4545
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  4530  GATGACATCTTGGACT  4545
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X25, mRNA
+Sequence ID: gi|1034576162|XM_011520453.2 Length: 8121
+Range 1: 4740 to 4755
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  4740  GATGACATCTTGGACT  4755
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X24, mRNA
+Sequence ID: gi|1034576161|XM_006718369.2 Length: 8186
+Range 1: 4805 to 4820
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  4805  GATGACATCTTGGACT  4820
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X23, mRNA
+Sequence ID: gi|1034576160|XM_005253214.4 Length: 12478
+Range 1: 9097 to 9112
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  9097  GATGACATCTTGGACT  9112
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X22, mRNA
+Sequence ID: gi|1034576159|XM_006718368.3 Length: 12514
+Range 1: 9133 to 9148
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  9133  GATGACATCTTGGACT  9148
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X21, mRNA
+Sequence ID: gi|1034576158|XM_006718367.3 Length: 12691
+Range 1: 9310 to 9325
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  9310  GATGACATCTTGGACT  9325
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X20, mRNA
+Sequence ID: gi|1034576156|XM_017018526.1 Length: 10472
+Range 1: 7091 to 7106
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  7091  GATGACATCTTGGACT  7106
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X19, mRNA
+Sequence ID: gi|1034576154|XM_017018525.1 Length: 9836
+Range 1: 6455 to 6470
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  6455  GATGACATCTTGGACT  6470
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X17, mRNA
+Sequence ID: gi|1034576150|XM_017018523.1 Length: 12170
+Range 1: 8789 to 8804
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  8789  GATGACATCTTGGACT  8804
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X15, mRNA
+Sequence ID: gi|1034576148|XM_011520451.2 Length: 10871
+Range 1: 7490 to 7505
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  7490  GATGACATCTTGGACT  7505
+
+
+
+
+>PREDICTED: Homo sapiens neuron navigator 2 (NAV2), transcript variant X14, mRNA
+Sequence ID: gi|1034576146|XM_017018522.1 Length: 11241
+Range 1: 7860 to 7875
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10    GATGACATCTTGGACT  25
+             ||||||||||||||||
+Sbjct  7860  GATGACATCTTGGACT  7875
+
+
+
+
+>Homo sapiens serpin family A member 7 (SERPINA7), mRNA.
+Sequence ID: gi|1519473606|NM_000354.6 Length: 2360
+Range 1: 167 to 181
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  7    ATGGATGACATCTTG  21
+            |||||||||||||||
+Sbjct  181  ATGGATGACATCTTG  167
+
+
+
+
+>PREDICTED: Homo sapiens serpin family A member 7 (SERPINA7), transcript variant X2, mRNA
+Sequence ID: gi|1370524899|XM_005262180.4 Length: 2415
+Range 1: 165 to 179
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  7    ATGGATGACATCTTG  21
+            |||||||||||||||
+Sbjct  179  ATGGATGACATCTTG  165
+
+
+
+
+>PREDICTED: Homo sapiens serpin family A member 7 (SERPINA7), transcript variant X1, mRNA
+Sequence ID: gi|1034675049|XM_006724683.2 Length: 2384
+Range 1: 165 to 179
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  7    ATGGATGACATCTTG  21
+            |||||||||||||||
+Sbjct  179  ATGGATGACATCTTG  165
+
+
+
+
+>Homo sapiens long intergenic non-protein coding RNA 1120 (LINC01120), long non-coding RNA.
+Sequence ID: gi|302393533|NR_036499.1 Length: 3063
+Range 1: 1145 to 1159
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  3     GGTGATGGATGACAT  17
+             |||||||||||||||
+Sbjct  1159  GGTGATGGATGACAT  1145
+
+
+
+
+>Homo sapiens component of oligomeric golgi complex 4 (COG4), transcript variant 4, non-coding RNA.
+Sequence ID: gi|1562203536|NR_158212.1 Length: 2772
+Range 1: 411 to 425
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10   GATGACATCTTGGAC  24
+            |||||||||||||||
+Sbjct  411  GATGACATCTTGGAC  425
+
+
+
+
+>Homo sapiens component of oligomeric golgi complex 4 (COG4), transcript variant 3, mRNA.
+Sequence ID: gi|1562203528|NM_001365426.1 Length: 2997
+Range 1: 584 to 598
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10   GATGACATCTTGGAC  24
+            |||||||||||||||
+Sbjct  584  GATGACATCTTGGAC  598
+
+
+
+
+>Homo sapiens component of oligomeric golgi complex 4 (COG4), transcript variant 2, mRNA.
+Sequence ID: gi|1562203526|NM_001195139.2 Length: 2761
+Range 1: 411 to 425
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10   GATGACATCTTGGAC  24
+            |||||||||||||||
+Sbjct  411  GATGACATCTTGGAC  425
+
+
+
+
+>Homo sapiens component of oligomeric golgi complex 4 (COG4), transcript variant 1, mRNA.
+Sequence ID: gi|1519473783|NM_015386.3 Length: 2820
+Range 1: 411 to 425
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10   GATGACATCTTGGAC  24
+            |||||||||||||||
+Sbjct  411  GATGACATCTTGGAC  425
+
+
+
+
+>PREDICTED: Homo sapiens component of oligomeric golgi complex 4 (COG4), transcript variant X5, mRNA
+Sequence ID: gi|1370468261|XM_024450224.1 Length: 3681
+Range 1: 567 to 581
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10   GATGACATCTTGGAC  24
+            |||||||||||||||
+Sbjct  567  GATGACATCTTGGAC  581
+
+
+
+
+>PREDICTED: Homo sapiens uncharacterized LOC107985134 (LOC107985134), ncRNA
+Sequence ID: gi|1034605439|XR_001753488.1 Length: 6433
+Range 1: 3470 to 3484
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  3     GGTGATGGATGACAT  17
+             |||||||||||||||
+Sbjct  3470  GGTGATGGATGACAT  3484
+
+
+
+
+>PREDICTED: Homo sapiens component of oligomeric golgi complex 4 (COG4), transcript variant X2, misc_RNA
+Sequence ID: gi|1034594202|XR_001751889.1 Length: 2021
+Range 1: 398 to 412
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10   GATGACATCTTGGAC  24
+            |||||||||||||||
+Sbjct  398  GATGACATCTTGGAC  412
+
+
+
+
+>PREDICTED: Homo sapiens component of oligomeric golgi complex 4 (COG4), transcript variant X3, misc_RNA
+Sequence ID: gi|767989685|XR_933267.1 Length: 2215
+Range 1: 398 to 412
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10   GATGACATCTTGGAC  24
+            |||||||||||||||
+Sbjct  398  GATGACATCTTGGAC  412
+
+
+
+
+>Homo sapiens regulator of G protein signaling 3 (RGS3), transcript variant 6, mRNA.
+Sequence ID: gi|2052147129|NM_144488.8 Length: 4592
+Range 1: 3554 to 3571
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8     TGGATGACATCTTGGACT  25
+             |||||| |||||||||||
+Sbjct  3571  TGGATGCCATCTTGGACT  3554
+
+
+
+
+>Homo sapiens regulator of G protein signaling 3 (RGS3), transcript variant 5, mRNA.
+Sequence ID: gi|2021882953|NM_144489.4 Length: 1512
+Range 1: 474 to 491
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8    TGGATGACATCTTGGACT  25
+            |||||| |||||||||||
+Sbjct  491  TGGATGCCATCTTGGACT  474
+
+
+
+
+>Homo sapiens regulator of G protein signaling 3 (RGS3), transcript variant 14, mRNA.
+Sequence ID: gi|2021882940|NM_001394167.1 Length: 4122
+Range 1: 3084 to 3101
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8     TGGATGACATCTTGGACT  25
+             |||||| |||||||||||
+Sbjct  3101  TGGATGCCATCTTGGACT  3084
+
+
+
+
+>Homo sapiens regulator of G protein signaling 3 (RGS3), transcript variant 4, mRNA.
+Sequence ID: gi|1890249509|NM_134427.3 Length: 1606
+Range 1: 568 to 585
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8    TGGATGACATCTTGGACT  25
+            |||||| |||||||||||
+Sbjct  585  TGGATGCCATCTTGGACT  568
+
+
+
+
+>Homo sapiens regulator of G protein signaling 3 (RGS3), transcript variant 8, mRNA.
+Sequence ID: gi|1889579327|NM_001276261.2 Length: 2631
+Range 1: 1593 to 1610
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8     TGGATGACATCTTGGACT  25
+             |||||| |||||||||||
+Sbjct  1610  TGGATGCCATCTTGGACT  1593
+
+
+
+
+>Homo sapiens DEAD-box helicase 27 (DDX27), transcript variant 1, mRNA.
+Sequence ID: gi|1872050792|NM_001348187.2 Length: 2663
+Range 1: 1809 to 1822
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  9     GGATGACATCTTGG  22
+             ||||||||||||||
+Sbjct  1822  GGATGACATCTTGG  1809
+
+
+
+
+>Homo sapiens DEAD-box helicase 27 (DDX27), transcript variant 2, mRNA.
+Sequence ID: gi|1872046760|NM_017895.8 Length: 2570
+Range 1: 1716 to 1729
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  9     GGATGACATCTTGG  22
+             ||||||||||||||
+Sbjct  1729  GGATGACATCTTGG  1716
+
+
+
+
+>Homo sapiens PR/SET domain 11 (PRDM11), transcript variant 1, mRNA.
+Sequence ID: gi|1861102970|NM_001256695.2 Length: 10729
+Range 1: 1725 to 1738
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  10    GATGACATCTTGGA  23
+             ||||||||||||||
+Sbjct  1738  GATGACATCTTGGA  1725
+
+
+
+
+>Homo sapiens PR/SET domain 11 (PRDM11), transcript variant 4, mRNA.
+Sequence ID: gi|1861101377|NM_001384648.1 Length: 10729
+Range 1: 1725 to 1738
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  10    GATGACATCTTGGA  23
+             ||||||||||||||
+Sbjct  1738  GATGACATCTTGGA  1725
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 12, non-coding RNA.
+Sequence ID: gi|1754759124|NR_164652.1 Length: 3712
+Range 1: 2494 to 2507
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  2507  GAGGTGATGGATGA  2494
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 11, non-coding RNA.
+Sequence ID: gi|1754759123|NR_164651.1 Length: 4743
+Range 1: 3525 to 3538
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3538  GAGGTGATGGATGA  3525
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 1, mRNA.
+Sequence ID: gi|1754759110|NM_001202554.2 Length: 4986
+Range 1: 3768 to 3781
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3781  GAGGTGATGGATGA  3768
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 5, mRNA.
+Sequence ID: gi|1754759108|NM_001374481.1 Length: 4612
+Range 1: 3394 to 3407
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3407  GAGGTGATGGATGA  3394
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 8, mRNA.
+Sequence ID: gi|1754759106|NM_001374484.1 Length: 3985
+Range 1: 2767 to 2780
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  2780  GAGGTGATGGATGA  2767
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 4, mRNA.
+Sequence ID: gi|1754759100|NM_001374480.1 Length: 4795
+Range 1: 3577 to 3590
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3590  GAGGTGATGGATGA  3577
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 6, mRNA.
+Sequence ID: gi|1754759098|NM_001374482.1 Length: 4561
+Range 1: 3343 to 3356
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3356  GAGGTGATGGATGA  3343
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 2, mRNA.
+Sequence ID: gi|1754759091|NM_017837.4 Length: 4673
+Range 1: 3455 to 3468
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3468  GAGGTGATGGATGA  3455
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 9, mRNA.
+Sequence ID: gi|1754759081|NM_001374485.1 Length: 4359
+Range 1: 3141 to 3154
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3154  GAGGTGATGGATGA  3141
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 7, mRNA.
+Sequence ID: gi|1754759077|NM_001374483.1 Length: 4477
+Range 1: 3259 to 3272
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3272  GAGGTGATGGATGA  3259
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 10, mRNA.
+Sequence ID: gi|1754759075|NM_001374486.1 Length: 3551
+Range 1: 2333 to 2346
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  2346  GAGGTGATGGATGA  2333
+
+
+
+
+>Homo sapiens phosphatidylinositol glycan anchor biosynthesis class V (PIGV), transcript variant 3, mRNA.
+Sequence ID: gi|1754759073|NM_001374478.1 Length: 4519
+Range 1: 3301 to 3314
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAGGTGATGGATGA  14
+             ||||||||||||||
+Sbjct  3314  GAGGTGATGGATGA  3301
+
+
+
+
+>Homo sapiens regulator of G protein signaling 3 (RGS3), transcript variant 10, mRNA.
+Sequence ID: gi|1677537712|NM_001282923.2 Length: 4228
+Range 1: 3190 to 3207
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8     TGGATGACATCTTGGACT  25
+             |||||| |||||||||||
+Sbjct  3207  TGGATGCCATCTTGGACT  3190
+
+
+
+
+
+
+
+		
+
+

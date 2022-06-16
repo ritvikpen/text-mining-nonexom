@@ -1,0 +1,973 @@
+>
+>Homo sapiens PAT1 homolog 1, processing body mRNA decay factor (PATL1), mRNA.
+Sequence ID: gi|1519311771|NM_152716.3 Length: 4129
+Range 1: 1030 to 1052
+
+Score:46.1 bits(23), Expect:4e-04, 
+Identities:23/23(100%),  Gaps:0/23(0%), Strand: Plus/Plus
+
+Query  1     GAATCCCAAGTTGCTACAAGGGC  23
+             |||||||||||||||||||||||
+Sbjct  1030  GAATCCCAAGTTGCTACAAGGGC  1052
+
+
+
+
+>Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant 11, non-coding RNA.
+Sequence ID: gi|1835922479|NR_168069.1 Length: 6375
+Range 1: 3671 to 3685
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  3685  CCCAAGTTGCTACAA  3671
+
+
+
+
+>Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant 7, mRNA.
+Sequence ID: gi|1835922464|NM_001382318.1 Length: 5284
+Range 1: 2580 to 2594
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  2594  CCCAAGTTGCTACAA  2580
+
+
+
+
+>Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant 1, mRNA.
+Sequence ID: gi|1835922434|NM_015482.2 Length: 6634
+Range 1: 3930 to 3944
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  3944  CCCAAGTTGCTACAA  3930
+
+
+
+
+>Homo sapiens ring finger protein 169 (RNF169), mRNA.
+Sequence ID: gi|1519315209|NM_001098638.2 Length: 7842
+Range 1: 6051 to 6065
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  1     GAATCCCAAGTTGCT  15
+             |||||||||||||||
+Sbjct  6065  GAATCCCAAGTTGCT  6051
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 169 (RNF169), transcript variant X1, mRNA
+Sequence ID: gi|1370459053|XM_011544889.3 Length: 7898
+Range 1: 6107 to 6121
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  1     GAATCCCAAGTTGCT  15
+             |||||||||||||||
+Sbjct  6121  GAATCCCAAGTTGCT  6107
+
+
+
+
+>PREDICTED: Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant X9, mRNA
+Sequence ID: gi|1034651288|XM_017011186.1 Length: 5626
+Range 1: 2922 to 2936
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  2936  CCCAAGTTGCTACAA  2922
+
+
+
+
+>PREDICTED: Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant X7, mRNA
+Sequence ID: gi|1034651284|XM_017011184.1 Length: 5007
+Range 1: 2689 to 2703
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  2703  CCCAAGTTGCTACAA  2689
+
+
+
+
+>PREDICTED: Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant X3, mRNA
+Sequence ID: gi|1034651277|XM_017011181.1 Length: 5070
+Range 1: 2752 to 2766
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  2766  CCCAAGTTGCTACAA  2752
+
+
+
+
+>PREDICTED: Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant X2, mRNA
+Sequence ID: gi|1034651275|XM_017011180.1 Length: 6707
+Range 1: 4003 to 4017
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  4017  CCCAAGTTGCTACAA  4003
+
+
+
+
+>PREDICTED: Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant X1, mRNA
+Sequence ID: gi|1034651274|XM_011514801.2 Length: 6230
+Range 1: 3526 to 3540
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  3540  CCCAAGTTGCTACAA  3526
+
+
+
+
+>Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant 5, non-coding RNA.
+Sequence ID: gi|557129070|NR_104448.1 Length: 5416
+Range 1: 2696 to 2710
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  2710  CCCAAGTTGCTACAA  2696
+
+
+
+
+>Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant 2, mRNA.
+Sequence ID: gi|557129030|NM_021945.6 Length: 5945
+Range 1: 3225 to 3239
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  3239  CCCAAGTTGCTACAA  3225
+
+
+
+
+>Homo sapiens solute carrier family 22 member 23 (SLC22A23), transcript variant 3, mRNA.
+Sequence ID: gi|557129024|NM_001286455.1 Length: 5700
+Range 1: 2980 to 2994
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  5     CCCAAGTTGCTACAA  19
+             |||||||||||||||
+Sbjct  2994  CCCAAGTTGCTACAA  2980
+
+
+
+
+>Homo sapiens DEAD-box helicase 5 (DDX5), transcript variant 3, mRNA.
+Sequence ID: gi|1889524013|NM_001320596.3 Length: 3782
+Range 1: 1670 to 1683
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  2     AATCCCAAGTTGCT  15
+             ||||||||||||||
+Sbjct  1670  AATCCCAAGTTGCT  1683
+
+
+
+
+>Homo sapiens olfactory receptor family 7 subfamily D member 2 (OR7D2), transcript variant 2, mRNA.
+Sequence ID: gi|1886833026|NM_001386112.1 Length: 3195
+Range 1: 2216 to 2229
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6     CCAAGTTGCTACAA  19
+             ||||||||||||||
+Sbjct  2216  CCAAGTTGCTACAA  2229
+
+
+
+
+>Homo sapiens olfactory receptor family 7 subfamily D member 2 (OR7D2), transcript variant 1, mRNA.
+Sequence ID: gi|1886832970|NM_175883.4 Length: 3286
+Range 1: 2307 to 2320
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  6     CCAAGTTGCTACAA  19
+             ||||||||||||||
+Sbjct  2307  CCAAGTTGCTACAA  2320
+
+
+
+
+>Homo sapiens DEAD-box helicase 5 (DDX5), transcript variant 1, mRNA.
+Sequence ID: gi|1676439966|NM_001320595.2 Length: 3769
+Range 1: 1657 to 1670
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  2     AATCCCAAGTTGCT  15
+             ||||||||||||||
+Sbjct  1657  AATCCCAAGTTGCT  1670
+
+
+
+
+>Homo sapiens matrix Gla protein (MGP), transcript variant 1, mRNA.
+Sequence ID: gi|1676319659|NM_001190839.3 Length: 1725
+Range 1: 1588 to 1601
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1     GAATCCCAAGTTGC  14
+             ||||||||||||||
+Sbjct  1588  GAATCCCAAGTTGC  1601
+
+
+
+
+>Homo sapiens DEAD-box helicase 5 (DDX5), transcript variant 4, mRNA.
+Sequence ID: gi|1674986432|NM_001320597.2 Length: 3662
+Range 1: 1550 to 1563
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  2     AATCCCAAGTTGCT  15
+             ||||||||||||||
+Sbjct  1550  AATCCCAAGTTGCT  1563
+
+
+
+
+>Homo sapiens matrix Gla protein (MGP), transcript variant 2, mRNA.
+Sequence ID: gi|1653961481|NM_000900.5 Length: 1650
+Range 1: 1513 to 1526
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1     GAATCCCAAGTTGC  14
+             ||||||||||||||
+Sbjct  1513  GAATCCCAAGTTGC  1526
+
+
+
+
+>Homo sapiens DEAD-box helicase 5 (DDX5), transcript variant 2, mRNA.
+Sequence ID: gi|1653960887|NM_004396.5 Length: 3684
+Range 1: 1572 to 1585
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  2     AATCCCAAGTTGCT  15
+             ||||||||||||||
+Sbjct  1572  AATCCCAAGTTGCT  1585
+
+
+
+
+>Homo sapiens ATP binding cassette subfamily D member 2 (ABCD2), mRNA.
+Sequence ID: gi|1519243672|NM_005164.4 Length: 6290
+Range 1: 4352 to 4365
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    TGCTACAAGGGCAA  25
+             ||||||||||||||
+Sbjct  4352  TGCTACAAGGGCAA  4365
+
+
+
+
+>Homo sapiens LDL receptor related protein 2 (LRP2), mRNA.
+Sequence ID: gi|1495852661|NM_004525.3 Length: 15657
+Range 1: 2277 to 2290
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  3     ATCCCAAGTTGCTA  16
+             ||||||||||||||
+Sbjct  2277  ATCCCAAGTTGCTA  2290
+
+
+
+
+>PREDICTED: Homo sapiens LDL receptor related protein 2 (LRP2), transcript variant X1, mRNA
+Sequence ID: gi|1370477678|XM_011511183.3 Length: 14947
+Range 1: 2340 to 2353
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  3     ATCCCAAGTTGCTA  16
+             ||||||||||||||
+Sbjct  2340  ATCCCAAGTTGCTA  2353
+
+
+
+
+>PREDICTED: Homo sapiens ATP binding cassette subfamily D member 2 (ABCD2), transcript variant X5, misc_RNA
+Sequence ID: gi|1370461428|XR_001748623.2 Length: 10154
+Range 1: 5168 to 5181
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    TGCTACAAGGGCAA  25
+             ||||||||||||||
+Sbjct  5168  TGCTACAAGGGCAA  5181
+
+
+
+
+>PREDICTED: Homo sapiens ATP binding cassette subfamily D member 2 (ABCD2), transcript variant X3, misc_RNA
+Sequence ID: gi|1370461426|XR_001748622.2 Length: 10068
+Range 1: 5082 to 5095
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    TGCTACAAGGGCAA  25
+             ||||||||||||||
+Sbjct  5082  TGCTACAAGGGCAA  5095
+
+
+
+
+>PREDICTED: Homo sapiens ATP binding cassette subfamily D member 2 (ABCD2), transcript variant X1, mRNA
+Sequence ID: gi|1370461424|XM_011538027.3 Length: 5924
+Range 1: 4530 to 4543
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    TGCTACAAGGGCAA  25
+             ||||||||||||||
+Sbjct  4530  TGCTACAAGGGCAA  4543
+
+
+
+
+>Homo sapiens lipoxygenase homology PLAT domains 1 (LOXHD1), transcript variant 6, mRNA.
+Sequence ID: gi|1859374384|NM_001384474.1 Length: 7208
+Range 1: 1363 to 1376
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  9     AGTTGCTACAAGGG  22
+             ||||||||||||||
+Sbjct  1376  AGTTGCTACAAGGG  1363
+
+
+
+
+>Homo sapiens glutamyl aminopeptidase (ENPEP), transcript variant 6, non-coding RNA.
+Sequence ID: gi|1829661136|NR_166844.1 Length: 6786
+Range 1: 2036 to 2049
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4     TCCCAAGTTGCTAC  17
+             ||||||||||||||
+Sbjct  2049  TCCCAAGTTGCTAC  2036
+
+
+
+
+>Homo sapiens glutamyl aminopeptidase (ENPEP), transcript variant 5, non-coding RNA.
+Sequence ID: gi|1829661135|NR_166842.1 Length: 6996
+Range 1: 2292 to 2305
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4     TCCCAAGTTGCTAC  17
+             ||||||||||||||
+Sbjct  2305  TCCCAAGTTGCTAC  2292
+
+
+
+
+>Homo sapiens glutamyl aminopeptidase (ENPEP), transcript variant 3, mRNA.
+Sequence ID: gi|1829661133|NM_001379612.1 Length: 3469
+Range 1: 2157 to 2170
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4     TCCCAAGTTGCTAC  17
+             ||||||||||||||
+Sbjct  2170  TCCCAAGTTGCTAC  2157
+
+
+
+
+>Homo sapiens glutamyl aminopeptidase (ENPEP), transcript variant 2, mRNA.
+Sequence ID: gi|1829661131|NM_001379611.1 Length: 3295
+Range 1: 2157 to 2170
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4     TCCCAAGTTGCTAC  17
+             ||||||||||||||
+Sbjct  2170  TCCCAAGTTGCTAC  2157
+
+
+
+
+>Homo sapiens glutamyl aminopeptidase (ENPEP), transcript variant 4, mRNA.
+Sequence ID: gi|1829661129|NM_001379613.1 Length: 6636
+Range 1: 2157 to 2170
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4     TCCCAAGTTGCTAC  17
+             ||||||||||||||
+Sbjct  2170  TCCCAAGTTGCTAC  2157
+
+
+
+
+>Homo sapiens lipoxygenase homology PLAT domains 1 (LOXHD1), transcript variant 1, mRNA.
+Sequence ID: gi|1820475556|NM_144612.7 Length: 7022
+Range 1: 1363 to 1376
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  9     AGTTGCTACAAGGG  22
+             ||||||||||||||
+Sbjct  1376  AGTTGCTACAAGGG  1363
+
+
+
+
+>Homo sapiens glutamyl aminopeptidase (ENPEP), transcript variant 1, mRNA.
+Sequence ID: gi|1519315700|NM_001977.4 Length: 6861
+Range 1: 2157 to 2170
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4     TCCCAAGTTGCTAC  17
+             ||||||||||||||
+Sbjct  2170  TCCCAAGTTGCTAC  2157
+
+
+
+
+>Homo sapiens chloride intracellular channel 4 (CLIC4), mRNA.
+Sequence ID: gi|1519244502|NM_013943.3 Length: 4253
+Range 1: 2800 to 2813
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1     GAATCCCAAGTTGC  14
+             ||||||||||||||
+Sbjct  2813  GAATCCCAAGTTGC  2800
+
+
+
+
+>PREDICTED: Homo sapiens glutamyl aminopeptidase (ENPEP), transcript variant X1, mRNA
+Sequence ID: gi|1034638862|XM_017007877.1 Length: 2631
+Range 1: 917 to 930
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4    TCCCAAGTTGCTAC  17
+            ||||||||||||||
+Sbjct  930  TCCCAAGTTGCTAC  917
+
+
+
+
+>PREDICTED: Homo sapiens lipoxygenase homology PLAT domains 1 (LOXHD1), transcript variant X13, mRNA
+Sequence ID: gi|1034603418|XM_017025548.1 Length: 6530
+Range 1: 1258 to 1271
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  9     AGTTGCTACAAGGG  22
+             ||||||||||||||
+Sbjct  1271  AGTTGCTACAAGGG  1258
+
+
+
+
+>PREDICTED: Homo sapiens ZNF45 antisense RNA 1 (ZNF45-AS1), transcript variant X6, ncRNA
+Sequence ID: gi|1935120568|XR_005228009.1 Length: 1986
+Range 1: 1352 to 1364
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  8     AAGTTGCTACAAG  20
+             |||||||||||||
+Sbjct  1352  AAGTTGCTACAAG  1364
+
+
+
+
+>Homo sapiens Fc gamma receptor IIIa (FCGR3A), transcript variant 8, mRNA.
+Sequence ID: gi|1896805747|NM_001386450.1 Length: 2161
+Range 1: 1679 to 1691
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4     TCCCAAGTTGCTA  16
+             |||||||||||||
+Sbjct  1679  TCCCAAGTTGCTA  1691
+
+
+
+
+>Homo sapiens Fc gamma receptor IIIa (FCGR3A), transcript variant 6, mRNA.
+Sequence ID: gi|1890276210|NM_001329120.2 Length: 2164
+Range 1: 1682 to 1694
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4     TCCCAAGTTGCTA  16
+             |||||||||||||
+Sbjct  1682  TCCCAAGTTGCTA  1694
+
+
+
+
+>Homo sapiens BUB1 mitotic checkpoint serine/threonine kinase (BUB1), transcript variant 3, mRNA.
+Sequence ID: gi|1890269421|NM_001278617.2 Length: 3591
+Range 1: 118 to 130
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13   GCTACAAGGGCAA  25
+            |||||||||||||
+Sbjct  118  GCTACAAGGGCAA  130
+
+
+
+
+>Homo sapiens zinc finger protein 778 (ZNF778), transcript variant 3, non-coding RNA.
+Sequence ID: gi|1820480256|NR_037705.3 Length: 11065
+Range 1: 8977 to 8989
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3     ATCCCAAGTTGCT  15
+             |||||||||||||
+Sbjct  8977  ATCCCAAGTTGCT  8989
+
+
+
+
+>Homo sapiens zinc finger protein 778 (ZNF778), transcript variant 1, mRNA.
+Sequence ID: gi|1820480182|NM_001201407.2 Length: 11192
+Range 1: 9104 to 9116
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3     ATCCCAAGTTGCT  15
+             |||||||||||||
+Sbjct  9104  ATCCCAAGTTGCT  9116
+
+
+
+
+>Homo sapiens zinc finger protein 778 (ZNF778), transcript variant 2, mRNA.
+Sequence ID: gi|1820480144|NM_182531.5 Length: 11108
+Range 1: 9020 to 9032
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3     ATCCCAAGTTGCT  15
+             |||||||||||||
+Sbjct  9020  ATCCCAAGTTGCT  9032
+
+
+
+
+>Homo sapiens zinc finger protein 778 (ZNF778), transcript variant 4, mRNA.
+Sequence ID: gi|1820480115|NM_001378881.1 Length: 11185
+Range 1: 9097 to 9109
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3     ATCCCAAGTTGCT  15
+             |||||||||||||
+Sbjct  9097  ATCCCAAGTTGCT  9109
+
+
+
+
+>Homo sapiens Fc gamma receptor IIIa (FCGR3A), transcript variant 1, mRNA.
+Sequence ID: gi|1820045864|NM_000569.8 Length: 2100
+Range 1: 1618 to 1630
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4     TCCCAAGTTGCTA  16
+             |||||||||||||
+Sbjct  1618  TCCCAAGTTGCTA  1630
+
+
+
+
+>Homo sapiens protein O-mannosyltransferase 2 (POMT2), mRNA.
+Sequence ID: gi|1812772003|NM_013382.7 Length: 4875
+Range 1: 1769 to 1781
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2     AATCCCAAGTTGC  14
+             |||||||||||||
+Sbjct  1769  AATCCCAAGTTGC  1781
+
+
+
+
+>Homo sapiens slit guidance ligand 3 (SLIT3), transcript variant 1, mRNA.
+Sequence ID: gi|1677539435|NM_001271946.2 Length: 9737
+Range 1: 3288 to 3300
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCTACAAGGGCAA  25
+             |||||||||||||
+Sbjct  3288  GCTACAAGGGCAA  3300
+
+
+
+
+>Homo sapiens Fc gamma receptor IIIa (FCGR3A), transcript variant 4, mRNA.
+Sequence ID: gi|1677537381|NM_001127595.2 Length: 2153
+Range 1: 1671 to 1683
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4     TCCCAAGTTGCTA  16
+             |||||||||||||
+Sbjct  1671  TCCCAAGTTGCTA  1683
+
+
+
+
+>Homo sapiens slit guidance ligand 3 (SLIT3), transcript variant 2, mRNA.
+Sequence ID: gi|1677501134|NM_003062.4 Length: 9716
+Range 1: 3267 to 3279
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCTACAAGGGCAA  25
+             |||||||||||||
+Sbjct  3267  GCTACAAGGGCAA  3279
+
+
+
+
+>Homo sapiens Fc gamma receptor IIIa (FCGR3A), transcript variant 5, mRNA.
+Sequence ID: gi|1677473078|NM_001127596.2 Length: 2150
+Range 1: 1668 to 1680
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4     TCCCAAGTTGCTA  16
+             |||||||||||||
+Sbjct  1668  TCCCAAGTTGCTA  1680
+
+
+
+
+>Homo sapiens BAF chromatin remodeling complex subunit BCL11B (BCL11B), transcript variant 3, mRNA.
+Sequence ID: gi|1676440178|NM_001282237.2 Length: 8525
+Range 1: 4755 to 4767
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    GTTGCTACAAGGG  22
+             |||||||||||||
+Sbjct  4755  GTTGCTACAAGGG  4767
+
+
+
+
+>Homo sapiens family with sequence similarity 189 member B (FAM189B), transcript variant 2, mRNA.
+Sequence ID: gi|1676439607|NM_198264.2 Length: 2902
+Range 1: 1945 to 1957
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5     CCCAAGTTGCTAC  17
+             |||||||||||||
+Sbjct  1945  CCCAAGTTGCTAC  1957
+
+
+
+
+>Homo sapiens BAF chromatin remodeling complex subunit BCL11B (BCL11B), transcript variant 2, mRNA.
+Sequence ID: gi|1676318394|NM_022898.3 Length: 8315
+Range 1: 4545 to 4557
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    GTTGCTACAAGGG  22
+             |||||||||||||
+Sbjct  4545  GTTGCTACAAGGG  4557
+
+
+
+
+>Homo sapiens solute carrier family 39 member 7 (SLC39A7), transcript variant 2, mRNA.
+Sequence ID: gi|1676317558|NM_001077516.2 Length: 2110
+Range 1: 1814 to 1826
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     CCAAGTTGCTACA  18
+             |||||||||||||
+Sbjct  1814  CCAAGTTGCTACA  1826
+
+
+
+
+>Homo sapiens pseudouridine synthase 1 (PUS1), transcript variant 2, mRNA.
+Sequence ID: gi|1676316860|NM_001002019.3 Length: 3649
+Range 1: 767 to 779
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12   TGCTACAAGGGCA  24
+            |||||||||||||
+Sbjct  767  TGCTACAAGGGCA  779
+
+
+
+
+>Homo sapiens BCL6 transcription repressor (BCL6), transcript variant 2, mRNA.
+Sequence ID: gi|1675178626|NM_001130845.2 Length: 3659
+Range 1: 2128 to 2140
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCTACAAGGGCAA  25
+             |||||||||||||
+Sbjct  2128  GCTACAAGGGCAA  2140
+
+
+
+
+>Homo sapiens solute carrier family 39 member 7 (SLC39A7), transcript variant 3, mRNA.
+Sequence ID: gi|1675175869|NM_001288777.2 Length: 1826
+Range 1: 1530 to 1542
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     CCAAGTTGCTACA  18
+             |||||||||||||
+Sbjct  1530  CCAAGTTGCTACA  1542
+
+
+
+
+>Homo sapiens BAF chromatin remodeling complex subunit BCL11B (BCL11B), transcript variant 4, mRNA.
+Sequence ID: gi|1675173335|NM_001282238.2 Length: 8312
+Range 1: 4542 to 4554
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    GTTGCTACAAGGG  22
+             |||||||||||||
+Sbjct  4542  GTTGCTACAAGGG  4554
+
+
+
+
+>Homo sapiens family with sequence similarity 189 member B (FAM189B), transcript variant 3, mRNA.
+Sequence ID: gi|1675117506|NM_001267608.2 Length: 3136
+Range 1: 2179 to 2191
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5     CCCAAGTTGCTAC  17
+             |||||||||||||
+Sbjct  2179  CCCAAGTTGCTAC  2191
+
+
+
+
+>Homo sapiens pseudouridine synthase 1 (PUS1), transcript variant 3, mRNA.
+Sequence ID: gi|1674986406|NM_001002020.3 Length: 3625
+Range 1: 743 to 755
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12   TGCTACAAGGGCA  24
+            |||||||||||||
+Sbjct  743  TGCTACAAGGGCA  755
+
+
+
+
+>Homo sapiens BUB1 mitotic checkpoint serine/threonine kinase (BUB1), transcript variant 1, mRNA.
+Sequence ID: gi|1653961903|NM_004336.5 Length: 3762
+Range 1: 118 to 130
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13   GCTACAAGGGCAA  25
+            |||||||||||||
+Sbjct  118  GCTACAAGGGCAA  130
+
+
+
+
+>Homo sapiens pseudouridine synthase 1 (PUS1), transcript variant 1, mRNA.
+Sequence ID: gi|1653961369|NM_025215.6 Length: 4041
+Range 1: 1159 to 1171
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12    TGCTACAAGGGCA  24
+             |||||||||||||
+Sbjct  1159  TGCTACAAGGGCA  1171
+
+
+
+
+>Homo sapiens BAF chromatin remodeling complex subunit BCL11B (BCL11B), transcript variant 1, mRNA.
+Sequence ID: gi|1519315646|NM_138576.4 Length: 8528
+Range 1: 4758 to 4770
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    GTTGCTACAAGGG  22
+             |||||||||||||
+Sbjct  4758  GTTGCTACAAGGG  4770
+
+
+
+
+>Homo sapiens proline rich 12 (PRR12), mRNA.
+Sequence ID: gi|1519314718|NM_020719.3 Length: 7416
+Range 1: 2314 to 2326
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCTACAAGGGCAA  25
+             |||||||||||||
+Sbjct  2314  GCTACAAGGGCAA  2326
+
+
+
+
+>Homo sapiens solute carrier family 39 member 7 (SLC39A7), transcript variant 1, mRNA.
+Sequence ID: gi|1519314667|NM_006979.3 Length: 2413
+Range 1: 2117 to 2129
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     CCAAGTTGCTACA  18
+             |||||||||||||
+Sbjct  2117  CCAAGTTGCTACA  2129
+
+
+
+
+>Homo sapiens BCL6 transcription repressor (BCL6), transcript variant 1, mRNA.
+Sequence ID: gi|1519312819|NM_001706.5 Length: 3306
+Range 1: 1775 to 1787
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCTACAAGGGCAA  25
+             |||||||||||||
+Sbjct  1775  GCTACAAGGGCAA  1787
+
+
+
+
+
+
+
+		
+
+

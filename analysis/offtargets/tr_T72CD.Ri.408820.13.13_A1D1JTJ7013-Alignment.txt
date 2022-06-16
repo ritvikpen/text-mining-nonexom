@@ -1,0 +1,917 @@
+>
+>Homo sapiens EPH receptor A10 (EPHA10), transcript variant 2, mRNA.
+Sequence ID: gi|1890273868|NM_173641.3 Length: 2024
+Range 1: 1570 to 1583
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  1570  ACCTCACTTGCAAA  1583
+
+
+
+
+>Homo sapiens olfactory receptor family 4 subfamily F member 3 (OR4F3), mRNA.
+Sequence ID: gi|1886308734|NM_001005224.2 Length: 6961
+Range 1: 5555 to 5568
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8     ACTTGCAAAACTTA  21
+             ||||||||||||||
+Sbjct  5555  ACTTGCAAAACTTA  5568
+
+
+
+
+>Homo sapiens neurofibromin 1 (NF1), transcript variant 1, mRNA.
+Sequence ID: gi|1732746177|NM_001042492.3 Length: 12373
+Range 1: 8679 to 8692
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  2     GACCTCACTTGCAA  15
+             ||||||||||||||
+Sbjct  8679  GACCTCACTTGCAA  8692
+
+
+
+
+>PREDICTED: Homo sapiens olfactory receptor family 4 subfamily F member 16 (OR4F16), transcript variant X7, mRNA
+Sequence ID: gi|1370454666|XM_024449993.1 Length: 5208
+Range 1: 3801 to 3814
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8     ACTTGCAAAACTTA  21
+             ||||||||||||||
+Sbjct  3801  ACTTGCAAAACTTA  3814
+
+
+
+
+>PREDICTED: Homo sapiens olfactory receptor family 4 subfamily F member 16 (OR4F16), transcript variant X6, mRNA
+Sequence ID: gi|1370454664|XM_024449992.1 Length: 5240
+Range 1: 3833 to 3846
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8     ACTTGCAAAACTTA  21
+             ||||||||||||||
+Sbjct  3833  ACTTGCAAAACTTA  3846
+
+
+
+
+>PREDICTED: Homo sapiens olfactory receptor family 4 subfamily F member 16 (OR4F16), transcript variant X3, mRNA
+Sequence ID: gi|1370454663|XM_017002409.2 Length: 5392
+Range 1: 3985 to 3998
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8     ACTTGCAAAACTTA  21
+             ||||||||||||||
+Sbjct  3985  ACTTGCAAAACTTA  3998
+
+
+
+
+>PREDICTED: Homo sapiens olfactory receptor family 4 subfamily F member 16 (OR4F16), transcript variant X1, mRNA
+Sequence ID: gi|1370454661|XM_024449987.1 Length: 5397
+Range 1: 3990 to 4003
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8     ACTTGCAAAACTTA  21
+             ||||||||||||||
+Sbjct  3990  ACTTGCAAAACTTA  4003
+
+
+
+
+>PREDICTED: Homo sapiens uncharacterized LOC105376201 (LOC105376201), ncRNA
+Sequence ID: gi|1034672954|XR_930213.2 Length: 3911
+Range 1: 91 to 104
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  7    CACTTGCAAAACTT  20
+            ||||||||||||||
+Sbjct  91   CACTTGCAAAACTT  104
+
+
+
+
+>PREDICTED: Homo sapiens uncharacterized LOC107986023 (LOC107986023), ncRNA
+Sequence ID: gi|1034636938|XR_001740492.1 Length: 3613
+Range 1: 377 to 390
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  5    CTCACTTGCAAAAC  18
+            ||||||||||||||
+Sbjct  377  CTCACTTGCAAAAC  390
+
+
+
+
+>PREDICTED: Homo sapiens uncharacterized LOC107985159 (LOC107985159), ncRNA
+Sequence ID: gi|1034565160|XR_001738178.1 Length: 1249
+Range 1: 1185 to 1198
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAAG  23
+             ||||||||||||||
+Sbjct  1185  TTGCAAAACTTAAG  1198
+
+
+
+
+>PREDICTED: Homo sapiens olfactory receptor family 4 subfamily F member 16 (OR4F16), transcript variant X5, mRNA
+Sequence ID: gi|1034562115|XM_017002411.1 Length: 5248
+Range 1: 3841 to 3854
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8     ACTTGCAAAACTTA  21
+             ||||||||||||||
+Sbjct  3841  ACTTGCAAAACTTA  3854
+
+
+
+
+>PREDICTED: Homo sapiens olfactory receptor family 4 subfamily F member 16 (OR4F16), transcript variant X4, mRNA
+Sequence ID: gi|1034562113|XM_017002410.1 Length: 5259
+Range 1: 3852 to 3865
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8     ACTTGCAAAACTTA  21
+             ||||||||||||||
+Sbjct  3852  ACTTGCAAAACTTA  3865
+
+
+
+
+>PREDICTED: Homo sapiens olfactory receptor family 4 subfamily F member 16 (OR4F16), transcript variant X2, mRNA
+Sequence ID: gi|1034562109|XM_017002408.1 Length: 5477
+Range 1: 4070 to 4083
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  8     ACTTGCAAAACTTA  21
+             ||||||||||||||
+Sbjct  4070  ACTTGCAAAACTTA  4083
+
+
+
+
+>Homo sapiens neurofibromin 1 (NF1), transcript variant 2, mRNA.
+Sequence ID: gi|270132515|NM_000267.3 Length: 12381
+Range 1: 8666 to 8679
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  2     GACCTCACTTGCAA  15
+             ||||||||||||||
+Sbjct  8666  GACCTCACTTGCAA  8679
+
+
+
+
+>Homo sapiens olfactory receptor family 10 subfamily A member 6 (gene/pseudogene) (OR10A6), transcript variant 2, mRNA.
+Sequence ID: gi|1952076938|NM_001389574.1 Length: 6104
+Range 1: 1653 to 1666
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  11    TGCAAAACTTAAGA  24
+             ||||||||||||||
+Sbjct  1666  TGCAAAACTTAAGA  1653
+
+
+
+
+>Homo sapiens olfactory receptor family 10 subfamily A member 6 (gene/pseudogene) (OR10A6), transcript variant 1, mRNA.
+Sequence ID: gi|1952076190|NM_001004461.2 Length: 6052
+Range 1: 1601 to 1614
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  11    TGCAAAACTTAAGA  24
+             ||||||||||||||
+Sbjct  1614  TGCAAAACTTAAGA  1601
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 4, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1890344225|NM_001319139.3 Length: 3715
+Range 1: 2450 to 2463
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  2463  ACCTCACTTGCAAA  2450
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 5, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1890343194|NM_001319140.2 Length: 6088
+Range 1: 4823 to 4836
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  4836  ACCTCACTTGCAAA  4823
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 6, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1890341971|NM_001319141.3 Length: 3646
+Range 1: 2381 to 2394
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  2394  ACCTCACTTGCAAA  2381
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 8, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1890334335|NM_001319143.2 Length: 5875
+Range 1: 4610 to 4623
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  4623  ACCTCACTTGCAAA  4610
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 7, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1890276021|NM_001319142.3 Length: 3471
+Range 1: 2206 to 2219
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  2219  ACCTCACTTGCAAA  2206
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 9, non-coding RNA.
+Sequence ID: gi|1889767408|NR_134976.3 Length: 3502
+Range 1: 2237 to 2250
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  2250  ACCTCACTTGCAAA  2237
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 3, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1889523889|NM_001199199.3 Length: 3573
+Range 1: 2308 to 2321
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  2321  ACCTCACTTGCAAA  2308
+
+
+
+
+>Homo sapiens olfactory receptor family 4 subfamily S member 2 (OR4S2), mRNA.
+Sequence ID: gi|1885895854|NM_001004059.3 Length: 2211
+Range 1: 2042 to 2055
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     TCACTTGCAAAACT  19
+             ||||||||||||||
+Sbjct  2055  TCACTTGCAAAACT  2042
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 2, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1675097666|NM_013411.5 Length: 3643
+Range 1: 2332 to 2345
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  2345  ACCTCACTTGCAAA  2332
+
+
+
+
+>Homo sapiens adenylate kinase 2 (AK2), transcript variant 1, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1595488116|NM_001625.4 Length: 5970
+Range 1: 4705 to 4718
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  4718  ACCTCACTTGCAAA  4705
+
+
+
+
+>Homo sapiens neurolysin (NLN), mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1519315227|NM_020726.5 Length: 8652
+Range 1: 2364 to 2377
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     TCACTTGCAAAACT  19
+             ||||||||||||||
+Sbjct  2377  TCACTTGCAAAACT  2364
+
+
+
+
+>Homo sapiens myotrophin (MTPN), mRNA.
+Sequence ID: gi|1519245458|NM_145808.4 Length: 3782
+Range 1: 1305 to 1322
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8     ACTTGCAAAACTTAAGAT  25
+             |||| |||||||||||||
+Sbjct  1322  ACTTCCAAAACTTAAGAT  1305
+
+
+
+
+>PREDICTED: Homo sapiens neurolysin (NLN), transcript variant X1, mRNA
+Sequence ID: gi|1370502055|XM_005248559.3 Length: 3455
+Range 1: 2310 to 2323
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     TCACTTGCAAAACT  19
+             ||||||||||||||
+Sbjct  2323  TCACTTGCAAAACT  2310
+
+
+
+
+>PREDICTED: Homo sapiens uncharacterized LOC105369487 (LOC105369487), ncRNA
+Sequence ID: gi|1370460905|XR_001748379.2 Length: 10765
+Range 1: 2496 to 2509
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  4     CCTCACTTGCAAAA  17
+             ||||||||||||||
+Sbjct  2509  CCTCACTTGCAAAA  2496
+
+
+
+
+>PREDICTED: Homo sapiens leucine rich repeat neuronal 2 (LRRN2), transcript variant X3, mRNA
+Sequence ID: gi|1370451557|XM_017000050.2 Length: 4976
+Range 1: 463 to 476
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5    CTCACTTGCAAAAC  18
+            ||||||||||||||
+Sbjct  476  CTCACTTGCAAAAC  463
+
+
+
+
+>PREDICTED: Homo sapiens neurolysin (NLN), transcript variant X3, mRNA
+Sequence ID: gi|1034645544|XM_017009673.1 Length: 8662
+Range 1: 2374 to 2387
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     TCACTTGCAAAACT  19
+             ||||||||||||||
+Sbjct  2387  TCACTTGCAAAACT  2374
+
+
+
+
+>PREDICTED: Homo sapiens neurolysin (NLN), transcript variant X2, mRNA
+Sequence ID: gi|1034645543|XM_006714661.2 Length: 4120
+Range 1: 2428 to 2441
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  6     TCACTTGCAAAACT  19
+             ||||||||||||||
+Sbjct  2441  TCACTTGCAAAACT  2428
+
+
+
+
+>PREDICTED: Homo sapiens uncharacterized LOC105378858 (LOC105378858), transcript variant X1, ncRNA
+Sequence ID: gi|1034565086|XR_947603.2 Length: 988
+Range 1: 378 to 391
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  7    CACTTGCAAAACTT  20
+            ||||||||||||||
+Sbjct  391  CACTTGCAAAACTT  378
+
+
+
+
+>PREDICTED: Homo sapiens adenylate kinase 2 (AK2), transcript variant X2, misc_RNA
+Sequence ID: gi|1034556423|XR_001737036.1 Length: 3726
+Range 1: 3355 to 3368
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     ACCTCACTTGCAAA  16
+             ||||||||||||||
+Sbjct  3368  ACCTCACTTGCAAA  3355
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 13, non-coding RNA.
+Sequence ID: gi|2041958583|NR_172363.1 Length: 3620
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 12, mRNA.
+Sequence ID: gi|2041958566|NM_001394996.1 Length: 3678
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 11, mRNA.
+Sequence ID: gi|2041958538|NM_001394995.1 Length: 3894
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens leucine rich repeats and IQ motif containing 4 (LRRIQ4), mRNA.
+Sequence ID: gi|2008101676|NM_001080460.3 Length: 2033
+Range 1: 1246 to 1266
+
+Score:26.3 bits(13), Expect:336, 
+Identities:19/21(90%),  Gaps:0/21(0%), Strand: Plus/Plus
+
+Query  5     CTCACTTGCAAAACTTAAGAT  25
+             ||||||| ||||||| |||||
+Sbjct  1246  CTCACTTTCAAAACTGAAGAT  1266
+
+
+
+
+>Homo sapiens POM121 transmembrane nucleoporin like 2 (POM121L2), mRNA.
+Sequence ID: gi|1934804097|NM_033482.4 Length: 3897
+Range 1: 1310 to 1330
+
+Score:26.3 bits(13), Expect:336, 
+Identities:19/21(90%),  Gaps:0/21(0%), Strand: Plus/Plus
+
+Query  4     CCTCACTTGCAAAACTTAAGA  24
+             ||||| ||| |||||||||||
+Sbjct  1310  CCTCAGTTGGAAAACTTAAGA  1330
+
+
+
+
+>Homo sapiens RAB36, member RAS oncogene family (RAB36), transcript variant 4, non-coding RNA.
+Sequence ID: gi|1890608860|NR_146295.3 Length: 4905
+Range 1: 4600 to 4612
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4     CCTCACTTGCAAA  16
+             |||||||||||||
+Sbjct  4600  CCTCACTTGCAAA  4612
+
+
+
+
+>Homo sapiens ceramide kinase like (CERKL), transcript variant 6, non-coding RNA.
+Sequence ID: gi|1890388952|NR_027690.2 Length: 3146
+Range 1: 1093 to 1109
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  7     CACTTGCAAAACTTAAG  23
+             |||| ||||||||||||
+Sbjct  1093  CACTGGCAAAACTTAAG  1109
+
+
+
+
+>Homo sapiens zinc finger FYVE-type containing 9 (ZFYVE9), transcript variant 1, mRNA.
+Sequence ID: gi|1890284115|NM_007324.5 Length: 4971
+Range 1: 1330 to 1346
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  1     GGACCTCACTTGCAAAA  17
+             |||||||||| ||||||
+Sbjct  1330  GGACCTCACTGGCAAAA  1346
+
+
+
+
+>Homo sapiens zinc finger FYVE-type containing 9 (ZFYVE9), transcript variant 3, mRNA.
+Sequence ID: gi|1890278172|NM_004799.4 Length: 5148
+Range 1: 1330 to 1346
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  1     GGACCTCACTTGCAAAA  17
+             |||||||||| ||||||
+Sbjct  1330  GGACCTCACTGGCAAAA  1346
+
+
+
+
+>Homo sapiens ceramide kinase like (CERKL), transcript variant 3, mRNA.
+Sequence ID: gi|1890271534|NM_001030312.3 Length: 2871
+Range 1: 818 to 834
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  7    CACTTGCAAAACTTAAG  23
+            |||| ||||||||||||
+Sbjct  818  CACTGGCAAAACTTAAG  834
+
+
+
+
+>Homo sapiens ceramide kinase like (CERKL), transcript variant 7, mRNA.
+Sequence ID: gi|1890268962|NM_001160277.2 Length: 3156
+Range 1: 1103 to 1119
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  7     CACTTGCAAAACTTAAG  23
+             |||| ||||||||||||
+Sbjct  1103  CACTGGCAAAACTTAAG  1119
+
+
+
+
+>Homo sapiens centrosomal protein 57 (CEP57), transcript variant 2, mRNA.
+Sequence ID: gi|1890268926|NM_001243776.2 Length: 3185
+Range 1: 1386 to 1398
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9     CTTGCAAAACTTA  21
+             |||||||||||||
+Sbjct  1386  CTTGCAAAACTTA  1398
+
+
+
+
+>Homo sapiens CGG triplet repeat binding protein 1 (CGGBP1), transcript variant 3, mRNA.
+Sequence ID: gi|1890264609|NM_001195308.2 Length: 4524
+Range 1: 3984 to 3996
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    CAAAACTTAAGAT  25
+             |||||||||||||
+Sbjct  3984  CAAAACTTAAGAT  3996
+
+
+
+
+>Homo sapiens CGG triplet repeat binding protein 1 (CGGBP1), transcript variant 2, mRNA.
+Sequence ID: gi|1890261949|NM_003663.4 Length: 4446
+Range 1: 3906 to 3918
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    CAAAACTTAAGAT  25
+             |||||||||||||
+Sbjct  3906  CAAAACTTAAGAT  3918
+
+
+
+
+>Homo sapiens ceramide kinase like (CERKL), transcript variant 5, non-coding RNA.
+Sequence ID: gi|1889767404|NR_027689.2 Length: 3014
+Range 1: 961 to 977
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  7    CACTTGCAAAACTTAAG  23
+            |||| ||||||||||||
+Sbjct  961  CACTGGCAAAACTTAAG  977
+
+
+
+
+>Homo sapiens centrosomal protein 57 (CEP57), transcript variant 3, mRNA.
+Sequence ID: gi|1889652109|NM_001243777.2 Length: 3063
+Range 1: 1264 to 1276
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9     CTTGCAAAACTTA  21
+             |||||||||||||
+Sbjct  1264  CTTGCAAAACTTA  1276
+
+
+
+
+>Homo sapiens centrosomal protein 57 (CEP57), transcript variant 4, mRNA.
+Sequence ID: gi|1889570984|NM_001363604.2 Length: 3454
+Range 1: 1655 to 1667
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  9     CTTGCAAAACTTA  21
+             |||||||||||||
+Sbjct  1655  CTTGCAAAACTTA  1667
+
+
+
+
+>Homo sapiens ceramide kinase like (CERKL), transcript variant 4, mRNA.
+Sequence ID: gi|1889544560|NM_001030313.3 Length: 3003
+Range 1: 950 to 966
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  7    CACTTGCAAAACTTAAG  23
+            |||| ||||||||||||
+Sbjct  950  CACTGGCAAAACTTAAG  966
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 1, mRNA.
+Sequence ID: gi|1889427667|NM_203437.4 Length: 4098
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens ceramide kinase like (CERKL), transcript variant 2, mRNA.
+Sequence ID: gi|1889408325|NM_001030311.3 Length: 3288
+Range 1: 1235 to 1251
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  7     CACTTGCAAAACTTAAG  23
+             |||| ||||||||||||
+Sbjct  1235  CACTGGCAAAACTTAAG  1251
+
+
+
+
+>Homo sapiens olfactory receptor family 11 subfamily G member 2 (OR11G2), transcript variant 1, mRNA.
+Sequence ID: gi|1885012082|NM_001005503.2 Length: 3786
+Range 1: 719 to 731
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5    CTCACTTGCAAAA  17
+            |||||||||||||
+Sbjct  719  CTCACTTGCAAAA  731
+
+
+
+
+>Homo sapiens olfactory receptor family 11 subfamily G member 2 (OR11G2), transcript variant 2, mRNA.
+Sequence ID: gi|1885010507|NM_001386033.1 Length: 4413
+Range 1: 1346 to 1358
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5     CTCACTTGCAAAA  17
+             |||||||||||||
+Sbjct  1346  CTCACTTGCAAAA  1358
+
+
+
+
+>Homo sapiens RAB36, member RAS oncogene family (RAB36), transcript variant 3, mRNA.
+Sequence ID: gi|1862755529|NM_004914.5 Length: 4990
+Range 1: 4685 to 4697
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4     CCTCACTTGCAAA  16
+             |||||||||||||
+Sbjct  4685  CCTCACTTGCAAA  4697
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 10, non-coding RNA.
+Sequence ID: gi|1773401702|NR_164747.1 Length: 3953
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 9, non-coding RNA.
+Sequence ID: gi|1773401692|NR_164746.1 Length: 3956
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 7, mRNA.
+Sequence ID: gi|1773401360|NM_001375972.1 Length: 3975
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 8, mRNA.
+Sequence ID: gi|1773401287|NM_001375973.1 Length: 3765
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 4, mRNA.
+Sequence ID: gi|1773401203|NM_001375969.1 Length: 4191
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 6, mRNA.
+Sequence ID: gi|1773401188|NM_001375971.1 Length: 4101
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+>Homo sapiens aftiphilin (AFTPH), transcript variant 5, mRNA.
+Sequence ID: gi|1773401147|NM_001375970.1 Length: 4188
+Range 1: 1891 to 1903
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10    TTGCAAAACTTAA  22
+             |||||||||||||
+Sbjct  1891  TTGCAAAACTTAA  1903
+
+
+
+
+
+
+
+		
+
+
