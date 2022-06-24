@@ -1,0 +1,959 @@
+>
+>PREDICTED: Homo sapiens SAP30 divergent transcript (SAP30-DT), transcript variant X2, ncRNA
+Sequence ID: gi|1370488203|XR_939463.3 Length: 994
+Range 1: 553 to 577
+
+Score:50.1 bits(25), Expect:2e-05, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1    GCCATCGACGCAGAAAATCAAAGAA  25
+            |||||||||||||||||||||||||
+Sbjct  553  GCCATCGACGCAGAAAATCAAAGAA  577
+
+
+
+
+>PREDICTED: Homo sapiens SAP30 divergent transcript (SAP30-DT), transcript variant X1, ncRNA
+Sequence ID: gi|1034642096|XR_939462.2 Length: 879
+Range 1: 438 to 462
+
+Score:50.1 bits(25), Expect:2e-05, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1    GCCATCGACGCAGAAAATCAAAGAA  25
+            |||||||||||||||||||||||||
+Sbjct  438  GCCATCGACGCAGAAAATCAAAGAA  462
+
+
+
+
+>Homo sapiens cleavage stimulation factor subunit 3 (CSTF3), transcript variant 1, mRNA.
+Sequence ID: gi|1519311763|NM_001326.3 Length: 2812
+Range 1: 633 to 648
+
+Score:32.2 bits(16), Expect:5.4, 
+Identities:16/16(100%),  Gaps:0/16(0%), Strand: Plus/Plus
+
+Query  10   GCAGAAAATCAAAGAA  25
+            ||||||||||||||||
+Sbjct  633  GCAGAAAATCAAAGAA  648
+
+
+
+
+>Homo sapiens ring finger protein 216 (RNF216), transcript variant 4, mRNA.
+Sequence ID: gi|1784637985|NM_001377156.1 Length: 5651
+Range 1: 1686 to 1700
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  1686  GCAGAAAATCAAAGA  1700
+
+
+
+
+>Homo sapiens ring finger protein 216 (RNF216), transcript variant 2, mRNA.
+Sequence ID: gi|1677539370|NM_207116.3 Length: 5606
+Range 1: 1641 to 1655
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  1641  GCAGAAAATCAAAGA  1655
+
+
+
+
+>Homo sapiens ring finger protein 216 (RNF216), transcript variant 1, mRNA.
+Sequence ID: gi|1677537448|NM_207111.4 Length: 5777
+Range 1: 1812 to 1826
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  1812  GCAGAAAATCAAAGA  1826
+
+
+
+
+>Homo sapiens RAS p21 protein activator 3 (RASA3), transcript variant 2, mRNA.
+Sequence ID: gi|1676317516|NM_001320821.2 Length: 4669
+Range 1: 4114 to 4128
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  11    CAGAAAATCAAAGAA  25
+             |||||||||||||||
+Sbjct  4114  CAGAAAATCAAAGAA  4128
+
+
+
+
+>Homo sapiens RAS p21 protein activator 3 (RASA3), transcript variant 3, mRNA.
+Sequence ID: gi|1676316974|NM_001320822.2 Length: 4167
+Range 1: 3612 to 3626
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  11    CAGAAAATCAAAGAA  25
+             |||||||||||||||
+Sbjct  3612  CAGAAAATCAAAGAA  3626
+
+
+
+
+>Homo sapiens RAS p21 protein activator 3 (RASA3), transcript variant 1, mRNA.
+Sequence ID: gi|1519244105|NM_007368.4 Length: 4203
+Range 1: 3648 to 3662
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  11    CAGAAAATCAAAGAA  25
+             |||||||||||||||
+Sbjct  3648  CAGAAAATCAAAGAA  3662
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X7, mRNA
+Sequence ID: gi|1370510454|XM_011515436.2 Length: 5870
+Range 1: 1905 to 1919
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  1905  GCAGAAAATCAAAGA  1919
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X6, mRNA
+Sequence ID: gi|1370510452|XM_024446807.1 Length: 5902
+Range 1: 1937 to 1951
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  1937  GCAGAAAATCAAAGA  1951
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X5, mRNA
+Sequence ID: gi|1370510450|XM_024446806.1 Length: 6045
+Range 1: 2080 to 2094
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  2080  GCAGAAAATCAAAGA  2094
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X4, mRNA
+Sequence ID: gi|1370510449|XM_017012364.2 Length: 2414
+Range 1: 1870 to 1884
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  1870  GCAGAAAATCAAAGA  1884
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X2, mRNA
+Sequence ID: gi|1370510446|XM_024446805.1 Length: 5840
+Range 1: 1875 to 1889
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  1875  GCAGAAAATCAAAGA  1889
+
+
+
+
+>PREDICTED: Homo sapiens RAS p21 protein activator 3 (RASA3), transcript variant X1, mRNA
+Sequence ID: gi|1370463700|XM_011534841.3 Length: 4264
+Range 1: 3712 to 3726
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  11    CAGAAAATCAAAGAA  25
+             |||||||||||||||
+Sbjct  3712  CAGAAAATCAAAGAA  3726
+
+
+
+
+>PREDICTED: Homo sapiens RAS p21 protein activator 3 (RASA3), transcript variant X4, mRNA
+Sequence ID: gi|1034583991|XM_017020439.1 Length: 4411
+Range 1: 3859 to 3873
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  11    CAGAAAATCAAAGAA  25
+             |||||||||||||||
+Sbjct  3859  CAGAAAATCAAAGAA  3873
+
+
+
+
+>PREDICTED: Homo sapiens RAS p21 protein activator 3 (RASA3), transcript variant X3, mRNA
+Sequence ID: gi|1034583989|XM_017020438.1 Length: 4614
+Range 1: 4062 to 4076
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  11    CAGAAAATCAAAGAA  25
+             |||||||||||||||
+Sbjct  4062  CAGAAAATCAAAGAA  4076
+
+
+
+
+>PREDICTED: Homo sapiens RAS p21 protein activator 3 (RASA3), transcript variant X2, mRNA
+Sequence ID: gi|1034583988|XM_011534842.2 Length: 4324
+Range 1: 3773 to 3787
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  11    CAGAAAATCAAAGAA  25
+             |||||||||||||||
+Sbjct  3773  CAGAAAATCAAAGAA  3787
+
+
+
+
+>PREDICTED: Homo sapiens uncharacterized LOC105376369 (LOC105376369), ncRNA
+Sequence ID: gi|1034570590|XR_930588.2 Length: 1347
+Range 1: 962 to 976
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  11   CAGAAAATCAAAGAA  25
+            |||||||||||||||
+Sbjct  962  CAGAAAATCAAAGAA  976
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X1, mRNA
+Sequence ID: gi|767945589|XM_005249785.2 Length: 6164
+Range 1: 2199 to 2213
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAGA  24
+             |||||||||||||||
+Sbjct  2199  GCAGAAAATCAAAGA  2213
+
+
+
+
+>Homo sapiens CWC25 spliceosome associated protein homolog (CWC25), transcript variant 2, non-coding RNA.
+Sequence ID: gi|1890403769|NR_073428.2 Length: 3184
+Range 1: 737 to 750
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12   AGAAAATCAAAGAA  25
+            ||||||||||||||
+Sbjct  737  AGAAAATCAAAGAA  750
+
+
+
+
+>Homo sapiens diaphanous related formin 2 (DIAPH2), transcript variant 12C, mRNA.
+Sequence ID: gi|1890278234|NM_007309.4 Length: 3601
+Range 1: 1785 to 1798
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  1785  AGAAAATCAAAGAA  1798
+
+
+
+
+>Homo sapiens NudC domain containing 1 (NUDCD1), transcript variant 2, mRNA.
+Sequence ID: gi|1889635364|NM_001128211.2 Length: 3854
+Range 1: 824 to 837
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12   AGAAAATCAAAGAA  25
+            ||||||||||||||
+Sbjct  824  AGAAAATCAAAGAA  837
+
+
+
+
+>Homo sapiens small nuclear RNA activating complex polypeptide 5 (SNAPC5), transcript variant 2, mRNA.
+Sequence ID: gi|1889571431|NM_001329613.2 Length: 1206
+Range 1: 428 to 441
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  11   CAGAAAATCAAAGA  24
+            ||||||||||||||
+Sbjct  428  CAGAAAATCAAAGA  441
+
+
+
+
+>Homo sapiens small nuclear RNA activating complex polypeptide 5 (SNAPC5), transcript variant 3, mRNA.
+Sequence ID: gi|1889530349|NM_001329614.2 Length: 1448
+Range 1: 670 to 683
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  11   CAGAAAATCAAAGA  24
+            ||||||||||||||
+Sbjct  670  CAGAAAATCAAAGA  683
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 16, non-coding RNA.
+Sequence ID: gi|1834199566|NR_167893.1 Length: 9859
+Range 1: 4648 to 4661
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  4648  AGAAAATCAAAGAA  4661
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 12, mRNA.
+Sequence ID: gi|1834199556|NM_001382211.1 Length: 8108
+Range 1: 2894 to 2907
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2894  AGAAAATCAAAGAA  2907
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 7, mRNA.
+Sequence ID: gi|1834199549|NM_001382206.1 Length: 7788
+Range 1: 2574 to 2587
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2574  AGAAAATCAAAGAA  2587
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 9, mRNA.
+Sequence ID: gi|1834199547|NM_001382208.1 Length: 8021
+Range 1: 2807 to 2820
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2807  AGAAAATCAAAGAA  2820
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 8, mRNA.
+Sequence ID: gi|1834199544|NM_001382207.1 Length: 7727
+Range 1: 2513 to 2526
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2513  AGAAAATCAAAGAA  2526
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 10, mRNA.
+Sequence ID: gi|1834199540|NM_001382209.1 Length: 8076
+Range 1: 2865 to 2878
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2865  AGAAAATCAAAGAA  2878
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 11, mRNA.
+Sequence ID: gi|1834199538|NM_001382210.1 Length: 8018
+Range 1: 2807 to 2820
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2807  AGAAAATCAAAGAA  2820
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 14, mRNA.
+Sequence ID: gi|1834199529|NM_001382213.1 Length: 8105
+Range 1: 2894 to 2907
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2894  AGAAAATCAAAGAA  2907
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 13, mRNA.
+Sequence ID: gi|1834199526|NM_001382212.1 Length: 7811
+Range 1: 2600 to 2613
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2600  AGAAAATCAAAGAA  2613
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 15, mRNA.
+Sequence ID: gi|1834199524|NM_001382214.1 Length: 7382
+Range 1: 2168 to 2181
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2168  AGAAAATCAAAGAA  2181
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 5, mRNA.
+Sequence ID: gi|1821619688|NM_001006631.3 Length: 5663
+Range 1: 2182 to 2195
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2182  AGAAAATCAAAGAA  2195
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 10, mRNA.
+Sequence ID: gi|1821619677|NM_001378972.1 Length: 6083
+Range 1: 2602 to 2615
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2602  AGAAAATCAAAGAA  2615
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 1, mRNA.
+Sequence ID: gi|1821619635|NM_001006630.2 Length: 5971
+Range 1: 2490 to 2503
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2490  AGAAAATCAAAGAA  2503
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 4, mRNA.
+Sequence ID: gi|1821619618|NM_000739.3 Length: 5719
+Range 1: 2238 to 2251
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2238  AGAAAATCAAAGAA  2251
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 6, mRNA.
+Sequence ID: gi|1821619594|NM_001006628.3 Length: 5645
+Range 1: 2164 to 2177
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2164  AGAAAATCAAAGAA  2177
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 3, mRNA.
+Sequence ID: gi|1821619578|NM_001006626.3 Length: 5797
+Range 1: 2316 to 2329
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2316  AGAAAATCAAAGAA  2329
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 8, mRNA.
+Sequence ID: gi|1821619571|NM_001006629.3 Length: 5567
+Range 1: 2086 to 2099
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2086  AGAAAATCAAAGAA  2099
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 11, mRNA.
+Sequence ID: gi|1821619567|NM_001378973.1 Length: 5585
+Range 1: 2104 to 2117
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2104  AGAAAATCAAAGAA  2117
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 2, mRNA.
+Sequence ID: gi|1821619542|NM_001006627.3 Length: 5893
+Range 1: 2412 to 2425
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2412  AGAAAATCAAAGAA  2425
+
+
+
+
+>Homo sapiens cholinergic receptor muscarinic 2 (CHRM2), transcript variant 7, mRNA.
+Sequence ID: gi|1821619511|NM_001006632.3 Length: 5641
+Range 1: 2160 to 2173
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2160  AGAAAATCAAAGAA  2173
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 2, mRNA.
+Sequence ID: gi|1677537634|NM_001330564.2 Length: 8024
+Range 1: 2810 to 2823
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2810  AGAAAATCAAAGAA  2823
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 5, mRNA.
+Sequence ID: gi|1677531723|NM_001330567.2 Length: 8021
+Range 1: 2810 to 2823
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2810  AGAAAATCAAAGAA  2823
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 1, mRNA.
+Sequence ID: gi|1677530710|NM_001076788.2 Length: 7730
+Range 1: 2516 to 2529
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2516  AGAAAATCAAAGAA  2529
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 6, mRNA.
+Sequence ID: gi|1677502041|NM_015070.6 Length: 6399
+Range 1: 2516 to 2529
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2516  AGAAAATCAAAGAA  2529
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 4, mRNA.
+Sequence ID: gi|1677499904|NM_001330566.2 Length: 8079
+Range 1: 2868 to 2881
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2868  AGAAAATCAAAGAA  2881
+
+
+
+
+>Homo sapiens zinc finger CCCH-type containing 13 (ZC3H13), transcript variant 3, mRNA.
+Sequence ID: gi|1677498523|NM_001330565.2 Length: 7727
+Range 1: 2516 to 2529
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  2516  AGAAAATCAAAGAA  2529
+
+
+
+
+>Homo sapiens intersectin 1 (ITSN1), transcript variant 5, mRNA.
+Sequence ID: gi|1675082932|NM_001331010.2 Length: 16957
+Range 1: 4919 to 4932
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4919  GCAGAAAATCAAAG  4932
+
+
+
+
+>Homo sapiens diaphanous related formin 2 (DIAPH2), transcript variant 156, mRNA.
+Sequence ID: gi|1519312036|NM_006729.5 Length: 9203
+Range 1: 1785 to 1798
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12    AGAAAATCAAAGAA  25
+             ||||||||||||||
+Sbjct  1785  AGAAAATCAAAGAA  1798
+
+
+
+
+>Homo sapiens CWC25 spliceosome associated protein homolog (CWC25), transcript variant 1, mRNA.
+Sequence ID: gi|1519246445|NM_017748.5 Length: 3067
+Range 1: 620 to 633
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12   AGAAAATCAAAGAA  25
+            ||||||||||||||
+Sbjct  620  AGAAAATCAAAGAA  633
+
+
+
+
+>Homo sapiens small nuclear RNA activating complex polypeptide 5 (SNAPC5), transcript variant 4, mRNA.
+Sequence ID: gi|1519245176|NM_001329615.2 Length: 1296
+Range 1: 518 to 531
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  11   CAGAAAATCAAAGA  24
+            ||||||||||||||
+Sbjct  518  CAGAAAATCAAAGA  531
+
+
+
+
+>Homo sapiens intersectin 1 (ITSN1), transcript variant 1, mRNA.
+Sequence ID: gi|1519244876|NM_003024.3 Length: 16972
+Range 1: 4934 to 4947
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4934  GCAGAAAATCAAAG  4947
+
+
+
+
+>Homo sapiens D-amino acid oxidase (DAO), mRNA.
+Sequence ID: gi|1519244566|NM_001917.5 Length: 1694
+Range 1: 1460 to 1473
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  11    CAGAAAATCAAAGA  24
+             ||||||||||||||
+Sbjct  1460  CAGAAAATCAAAGA  1473
+
+
+
+
+>Homo sapiens NudC domain containing 1 (NUDCD1), transcript variant 1, mRNA.
+Sequence ID: gi|1519242226|NM_032869.4 Length: 3919
+Range 1: 889 to 902
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12   AGAAAATCAAAGAA  25
+            ||||||||||||||
+Sbjct  889  AGAAAATCAAAGAA  902
+
+
+
+
+>PREDICTED: Homo sapiens NudC domain containing 1 (NUDCD1), transcript variant X1, mRNA
+Sequence ID: gi|1370513059|XM_017013910.2 Length: 4010
+Range 1: 981 to 994
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12   AGAAAATCAAAGAA  25
+            ||||||||||||||
+Sbjct  981  AGAAAATCAAAGAA  994
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X18, misc_RNA
+Sequence ID: gi|1370481581|XR_001754890.2 Length: 5285
+Range 1: 4800 to 4813
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4800  GCAGAAAATCAAAG  4813
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X9, mRNA
+Sequence ID: gi|1370481573|XM_017028436.2 Length: 16682
+Range 1: 4644 to 4657
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4644  GCAGAAAATCAAAG  4657
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X8, mRNA
+Sequence ID: gi|1370481572|XM_017028435.2 Length: 16697
+Range 1: 4659 to 4672
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4659  GCAGAAAATCAAAG  4672
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X7, mRNA
+Sequence ID: gi|1370481571|XM_017028434.2 Length: 16792
+Range 1: 4754 to 4767
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4754  GCAGAAAATCAAAG  4767
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X6, mRNA
+Sequence ID: gi|1370481570|XM_017028433.2 Length: 16807
+Range 1: 4769 to 4782
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4769  GCAGAAAATCAAAG  4782
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X5, mRNA
+Sequence ID: gi|1370481569|XM_017028432.2 Length: 16837
+Range 1: 4799 to 4812
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4799  GCAGAAAATCAAAG  4812
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X4, mRNA
+Sequence ID: gi|1370481568|XM_017028431.2 Length: 16852
+Range 1: 4814 to 4827
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4814  GCAGAAAATCAAAG  4827
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X3, mRNA
+Sequence ID: gi|1370481567|XM_017028430.2 Length: 16895
+Range 1: 4857 to 4870
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4857  GCAGAAAATCAAAG  4870
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X2, mRNA
+Sequence ID: gi|1370481566|XM_017028429.2 Length: 16910
+Range 1: 4872 to 4885
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  10    GCAGAAAATCAAAG  23
+             ||||||||||||||
+Sbjct  4872  GCAGAAAATCAAAG  4885
+
+
+
+
+
+
+
+		
+
+

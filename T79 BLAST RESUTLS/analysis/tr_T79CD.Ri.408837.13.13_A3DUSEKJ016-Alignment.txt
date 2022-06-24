@@ -1,0 +1,1107 @@
+>
+>PREDICTED: Homo sapiens SAP30 divergent transcript (SAP30-DT), transcript variant X2, ncRNA
+Sequence ID: gi|1370488203|XR_939463.3 Length: 994
+Range 1: 550 to 574
+
+Score:50.1 bits(25), Expect:2e-05, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1    AATGCCATCGACGCAGAAAATCAAA  25
+            |||||||||||||||||||||||||
+Sbjct  550  AATGCCATCGACGCAGAAAATCAAA  574
+
+
+
+
+>PREDICTED: Homo sapiens SAP30 divergent transcript (SAP30-DT), transcript variant X1, ncRNA
+Sequence ID: gi|1034642096|XR_939462.2 Length: 879
+Range 1: 435 to 459
+
+Score:50.1 bits(25), Expect:2e-05, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1    AATGCCATCGACGCAGAAAATCAAA  25
+            |||||||||||||||||||||||||
+Sbjct  435  AATGCCATCGACGCAGAAAATCAAA  459
+
+
+
+
+>Homo sapiens testin LIM domain protein (TES), transcript variant 2, mRNA.
+Sequence ID: gi|1676317162|NM_152829.3 Length: 2614
+Range 1: 1143 to 1160
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  1     AATGCCATCGACGCAGAA  18
+             |||||||||||| |||||
+Sbjct  1143  AATGCCATCGACCCAGAA  1160
+
+
+
+
+>Homo sapiens testin LIM domain protein (TES), transcript variant 1, mRNA.
+Sequence ID: gi|1519243282|NM_015641.4 Length: 2736
+Range 1: 1265 to 1282
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  1     AATGCCATCGACGCAGAA  18
+             |||||||||||| |||||
+Sbjct  1265  AATGCCATCGACCCAGAA  1282
+
+
+
+
+>PREDICTED: Homo sapiens testin LIM domain protein (TES), transcript variant X1, mRNA
+Sequence ID: gi|530385716|XM_005250258.1 Length: 2653
+Range 1: 1179 to 1196
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  1     AATGCCATCGACGCAGAA  18
+             |||||||||||| |||||
+Sbjct  1179  AATGCCATCGACCCAGAA  1196
+
+
+
+
+>Homo sapiens proline rich 33 (PRR33), mRNA.
+Sequence ID: gi|2057283065|NM_001395380.1 Length: 3818
+Range 1: 1325 to 1338
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  3     TGCCATCGACGCAG  16
+             ||||||||||||||
+Sbjct  1338  TGCCATCGACGCAG  1325
+
+
+
+
+>Homo sapiens CWF19 like cell cycle control factor 2 (CWF19L2), mRNA.
+Sequence ID: gi|2019292423|NM_152434.3 Length: 3244
+Range 1: 1840 to 1852
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1840  GCAGAAAATCAAA  1852
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 3, mRNA.
+Sequence ID: gi|1890342245|NM_001129829.2 Length: 13867
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 12, mRNA.
+Sequence ID: gi|1890341555|NM_001129838.2 Length: 13768
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 16, mRNA.
+Sequence ID: gi|1890334157|NM_001129842.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 1, mRNA.
+Sequence ID: gi|1890333913|NM_199460.4 Length: 13993
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 8, mRNA.
+Sequence ID: gi|1890327937|NM_001129834.2 Length: 13801
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 20, mRNA.
+Sequence ID: gi|1890327847|NM_001129846.2 Length: 13711
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 15, mRNA.
+Sequence ID: gi|1890327537|NM_001129841.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 22, mRNA.
+Sequence ID: gi|1890321653|NM_001167624.3 Length: 13849
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 23, mRNA.
+Sequence ID: gi|1890284013|NM_001167625.2 Length: 13924
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 17, mRNA.
+Sequence ID: gi|1890273908|NM_001129843.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 9, mRNA.
+Sequence ID: gi|1890266245|NM_001129835.2 Length: 13801
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 6, mRNA.
+Sequence ID: gi|1890265802|NM_001129832.2 Length: 13804
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 10, mRNA.
+Sequence ID: gi|1890265703|NM_001129836.2 Length: 13795
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 19, mRNA.
+Sequence ID: gi|1890263962|NM_001129844.2 Length: 13735
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 7, mRNA.
+Sequence ID: gi|1890255540|NM_001129833.2 Length: 13801
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 13, mRNA.
+Sequence ID: gi|1890250423|NM_001129839.2 Length: 13762
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 11, mRNA.
+Sequence ID: gi|1889722104|NM_001129837.2 Length: 13768
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 5, mRNA.
+Sequence ID: gi|1889604333|NM_001129831.2 Length: 13828
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens C-type lectin domain family 2 member B (CLEC2B), mRNA.
+Sequence ID: gi|1887789599|NM_005127.3 Length: 1533
+Range 1: 117 to 129
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13   GCAGAAAATCAAA  25
+            |||||||||||||
+Sbjct  117  GCAGAAAATCAAA  129
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 4, mRNA.
+Sequence ID: gi|1836166157|NM_001352156.3 Length: 10230
+Range 1: 1160 to 1172
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1160  GCAGAAAATCAAA  1172
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 6, mRNA.
+Sequence ID: gi|1836165546|NM_001352158.3 Length: 10058
+Range 1: 1036 to 1048
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1036  GCAGAAAATCAAA  1048
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 3, mRNA.
+Sequence ID: gi|1836165491|NM_001352127.3 Length: 11459
+Range 1: 2440 to 2452
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  2440  GCAGAAAATCAAA  2452
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 7, mRNA.
+Sequence ID: gi|1836165285|NM_001382353.1 Length: 11507
+Range 1: 2440 to 2452
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  2440  GCAGAAAATCAAA  2452
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 8, mRNA.
+Sequence ID: gi|1836165145|NM_001382354.1 Length: 10106
+Range 1: 1036 to 1048
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1036  GCAGAAAATCAAA  1048
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 9, mRNA.
+Sequence ID: gi|1836165143|NM_001382355.1 Length: 10103
+Range 1: 1036 to 1048
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1036  GCAGAAAATCAAA  1048
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 1, mRNA.
+Sequence ID: gi|1836165142|NM_001308319.2 Length: 11547
+Range 1: 2480 to 2492
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  2480  GCAGAAAATCAAA  2492
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 5, mRNA.
+Sequence ID: gi|1836164937|NM_001352157.3 Length: 10182
+Range 1: 1160 to 1172
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1160  GCAGAAAATCAAA  1172
+
+
+
+
+>Homo sapiens chromodomain helicase DNA binding protein 9 (CHD9), transcript variant 2, mRNA.
+Sequence ID: gi|1836164888|NM_025134.7 Length: 11499
+Range 1: 2480 to 2492
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  2480  GCAGAAAATCAAA  2492
+
+
+
+
+>Homo sapiens ring finger protein 216 (RNF216), transcript variant 4, mRNA.
+Sequence ID: gi|1784637985|NM_001377156.1 Length: 5651
+Range 1: 1686 to 1698
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1686  GCAGAAAATCAAA  1698
+
+
+
+
+>Homo sapiens ring finger protein 216 (RNF216), transcript variant 2, mRNA.
+Sequence ID: gi|1677539370|NM_207116.3 Length: 5606
+Range 1: 1641 to 1653
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1641  GCAGAAAATCAAA  1653
+
+
+
+
+>Homo sapiens ring finger protein 216 (RNF216), transcript variant 1, mRNA.
+Sequence ID: gi|1677537448|NM_207111.4 Length: 5777
+Range 1: 1812 to 1824
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1812  GCAGAAAATCAAA  1824
+
+
+
+
+>Homo sapiens WD repeat domain 49 (WDR49), transcript variant 2, mRNA.
+Sequence ID: gi|1677530830|NM_001348952.2 Length: 3494
+Range 1: 1746 to 1758
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1746  GCAGAAAATCAAA  1758
+
+
+
+
+>Homo sapiens WD repeat domain 49 (WDR49), transcript variant 1, mRNA.
+Sequence ID: gi|1677530696|NM_001348951.2 Length: 3609
+Range 1: 1861 to 1873
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1861  GCAGAAAATCAAA  1873
+
+
+
+
+>Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2), transcript variant 2, mRNA.
+Sequence ID: gi|1676440518|NM_001135820.2 Length: 5963
+Range 1: 1488 to 1500
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11    ACGCAGAAAATCA  23
+             |||||||||||||
+Sbjct  1488  ACGCAGAAAATCA  1500
+
+
+
+
+>Homo sapiens unc-51 like autophagy activating kinase 2 (ULK2), transcript variant 2, mRNA.
+Sequence ID: gi|1676317965|NM_001142610.2 Length: 3908
+Range 1: 949 to 961
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12   CGCAGAAAATCAA  24
+            |||||||||||||
+Sbjct  949  CGCAGAAAATCAA  961
+
+
+
+
+>Homo sapiens ankyrin repeat and EF-hand domain containing 1 (ANKEF1), transcript variant 2, mRNA.
+Sequence ID: gi|1676317789|NM_198798.3 Length: 5365
+Range 1: 2351 to 2363
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  2351  GCAGAAAATCAAA  2363
+
+
+
+
+>Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2), transcript variant 3, mRNA.
+Sequence ID: gi|1675178388|NM_001349784.2 Length: 6118
+Range 1: 1677 to 1689
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11    ACGCAGAAAATCA  23
+             |||||||||||||
+Sbjct  1677  ACGCAGAAAATCA  1689
+
+
+
+
+>Homo sapiens intersectin 1 (ITSN1), transcript variant 5, mRNA.
+Sequence ID: gi|1675082932|NM_001331010.2 Length: 16957
+Range 1: 4919 to 4931
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4919  GCAGAAAATCAAA  4931
+
+
+
+
+>Homo sapiens ankyrin repeat and EF-hand domain containing 1 (ANKEF1), transcript variant 3, mRNA.
+Sequence ID: gi|1674986009|NM_001303472.2 Length: 5411
+Range 1: 2397 to 2409
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  2397  GCAGAAAATCAAA  2409
+
+
+
+
+>Homo sapiens armadillo repeat containing X-linked 1 (ARMCX1), mRNA.
+Sequence ID: gi|1653962094|NM_016608.2 Length: 2125
+Range 1: 1185 to 1197
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11    ACGCAGAAAATCA  23
+             |||||||||||||
+Sbjct  1185  ACGCAGAAAATCA  1197
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 14, mRNA.
+Sequence ID: gi|1631890801|NM_001129840.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 18, mRNA.
+Sequence ID: gi|1631890800|NM_000719.7 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 21, mRNA.
+Sequence ID: gi|1631890799|NM_001167623.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 2, mRNA.
+Sequence ID: gi|1631886399|NM_001129827.2 Length: 13888
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 4, mRNA.
+Sequence ID: gi|1631881912|NM_001129830.3 Length: 13849
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4    GCCATCGACGCAG  16
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens aldehyde dehydrogenase 5 family member A1 (ALDH5A1), transcript variant 3, mRNA; nuclear gene for mitochondrial product.
+Sequence ID: gi|1589401591|NM_001368954.1 Length: 4987
+Range 1: 4077 to 4089
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4077  GCAGAAAATCAAA  4089
+
+
+
+
+>Homo sapiens unc-51 like autophagy activating kinase 2 (ULK2), transcript variant 1, mRNA.
+Sequence ID: gi|1519473589|NM_014683.4 Length: 9149
+Range 1: 949 to 961
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12   CGCAGAAAATCAA  24
+            |||||||||||||
+Sbjct  949  CGCAGAAAATCAA  961
+
+
+
+
+>Homo sapiens gamma-aminobutyric acid type A receptor subunit delta (GABRD), mRNA.
+Sequence ID: gi|1519315726|NM_000815.5 Length: 1914
+Range 1: 1341 to 1353
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  5     CCATCGACGCAGA  17
+             |||||||||||||
+Sbjct  1341  CCATCGACGCAGA  1353
+
+
+
+
+>Homo sapiens cleavage stimulation factor subunit 3 (CSTF3), transcript variant 1, mRNA.
+Sequence ID: gi|1519311763|NM_001326.3 Length: 2812
+Range 1: 633 to 645
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13   GCAGAAAATCAAA  25
+            |||||||||||||
+Sbjct  633  GCAGAAAATCAAA  645
+
+
+
+
+>Homo sapiens ankyrin repeat and EF-hand domain containing 1 (ANKEF1), transcript variant 1, mRNA.
+Sequence ID: gi|1519245741|NM_022096.6 Length: 5429
+Range 1: 2415 to 2427
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  2415  GCAGAAAATCAAA  2427
+
+
+
+
+>Homo sapiens intersectin 1 (ITSN1), transcript variant 1, mRNA.
+Sequence ID: gi|1519244876|NM_003024.3 Length: 16972
+Range 1: 4934 to 4946
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4934  GCAGAAAATCAAA  4946
+
+
+
+
+>Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2), transcript variant 1, mRNA.
+Sequence ID: gi|1519244870|NM_013390.3 Length: 6152
+Range 1: 1677 to 1689
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11    ACGCAGAAAATCA  23
+             |||||||||||||
+Sbjct  1677  ACGCAGAAAATCA  1689
+
+
+
+
+>Homo sapiens WD repeat domain 49 (WDR49), transcript variant 3, mRNA.
+Sequence ID: gi|1483452986|NM_001366157.1 Length: 3527
+Range 1: 1746 to 1758
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1746  GCAGAAAATCAAA  1758
+
+
+
+
+>Homo sapiens WD repeat domain 49 (WDR49), transcript variant 4, mRNA.
+Sequence ID: gi|1483452984|NM_001366158.1 Length: 2701
+Range 1: 953 to 965
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13   GCAGAAAATCAAA  25
+            |||||||||||||
+Sbjct  953  GCAGAAAATCAAA  965
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X7, mRNA
+Sequence ID: gi|1370510454|XM_011515436.2 Length: 5870
+Range 1: 1905 to 1917
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1905  GCAGAAAATCAAA  1917
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X6, mRNA
+Sequence ID: gi|1370510452|XM_024446807.1 Length: 5902
+Range 1: 1937 to 1949
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1937  GCAGAAAATCAAA  1949
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X5, mRNA
+Sequence ID: gi|1370510450|XM_024446806.1 Length: 6045
+Range 1: 2080 to 2092
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  2080  GCAGAAAATCAAA  2092
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X4, mRNA
+Sequence ID: gi|1370510449|XM_017012364.2 Length: 2414
+Range 1: 1870 to 1882
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1870  GCAGAAAATCAAA  1882
+
+
+
+
+>PREDICTED: Homo sapiens ring finger protein 216 (RNF216), transcript variant X2, mRNA
+Sequence ID: gi|1370510446|XM_024446805.1 Length: 5840
+Range 1: 1875 to 1887
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  1875  GCAGAAAATCAAA  1887
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X18, misc_RNA
+Sequence ID: gi|1370481581|XR_001754890.2 Length: 5285
+Range 1: 4800 to 4812
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4800  GCAGAAAATCAAA  4812
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X9, mRNA
+Sequence ID: gi|1370481573|XM_017028436.2 Length: 16682
+Range 1: 4644 to 4656
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4644  GCAGAAAATCAAA  4656
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X8, mRNA
+Sequence ID: gi|1370481572|XM_017028435.2 Length: 16697
+Range 1: 4659 to 4671
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4659  GCAGAAAATCAAA  4671
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X7, mRNA
+Sequence ID: gi|1370481571|XM_017028434.2 Length: 16792
+Range 1: 4754 to 4766
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4754  GCAGAAAATCAAA  4766
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X6, mRNA
+Sequence ID: gi|1370481570|XM_017028433.2 Length: 16807
+Range 1: 4769 to 4781
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4769  GCAGAAAATCAAA  4781
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X5, mRNA
+Sequence ID: gi|1370481569|XM_017028432.2 Length: 16837
+Range 1: 4799 to 4811
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4799  GCAGAAAATCAAA  4811
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X4, mRNA
+Sequence ID: gi|1370481568|XM_017028431.2 Length: 16852
+Range 1: 4814 to 4826
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4814  GCAGAAAATCAAA  4826
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X3, mRNA
+Sequence ID: gi|1370481567|XM_017028430.2 Length: 16895
+Range 1: 4857 to 4869
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4857  GCAGAAAATCAAA  4869
+
+
+
+
+>PREDICTED: Homo sapiens intersectin 1 (ITSN1), transcript variant X2, mRNA
+Sequence ID: gi|1370481566|XM_017028429.2 Length: 16910
+Range 1: 4872 to 4884
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    GCAGAAAATCAAA  25
+             |||||||||||||
+Sbjct  4872  GCAGAAAATCAAA  4884
+
+
+
+
+>PREDICTED: Homo sapiens unc-51 like autophagy activating kinase 2 (ULK2), transcript variant X8, mRNA
+Sequence ID: gi|1370472768|XM_017025428.2 Length: 5048
+Range 1: 313 to 325
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12   CGCAGAAAATCAA  24
+            |||||||||||||
+Sbjct  313  CGCAGAAAATCAA  325
+
+
+
+
+>PREDICTED: Homo sapiens unc-51 like autophagy activating kinase 2 (ULK2), transcript variant X7, mRNA
+Sequence ID: gi|1370472767|XM_017025427.2 Length: 5129
+Range 1: 313 to 325
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12   CGCAGAAAATCAA  24
+            |||||||||||||
+Sbjct  313  CGCAGAAAATCAA  325
+
+
+
+
+>PREDICTED: Homo sapiens unc-51 like autophagy activating kinase 2 (ULK2), transcript variant X6, misc_RNA
+Sequence ID: gi|1370472766|XR_001752701.2 Length: 3755
+Range 1: 973 to 985
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12   CGCAGAAAATCAA  24
+            |||||||||||||
+Sbjct  973  CGCAGAAAATCAA  985
+
+
+
+
+>PREDICTED: Homo sapiens unc-51 like autophagy activating kinase 2 (ULK2), transcript variant X5, misc_RNA
+Sequence ID: gi|1370472765|XR_001752700.2 Length: 5669
+Range 1: 973 to 985
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12   CGCAGAAAATCAA  24
+            |||||||||||||
+Sbjct  973  CGCAGAAAATCAA  985
+
+
+
+

@@ -1,0 +1,3307 @@
+RID: A3DTEXEW013	
+Job Title:T79 CD.Ri.408837.13.11				
+Program: BLASTN 
+Database: Human G+T (2 databases) 
+Query #1:  Query ID: lcl|Query_11553 Length: 25
+
+Sequences producing significant alignments:
+                                                                  Scientific      Common                     Max    Total Query   E   Per.   Acc.                        
+Description                                                       Name            Name            Taxid      Score  Score cover Value Ident  Len        Accession        
+PREDICTED: Homo sapiens SAP30 divergent transcript (SAP30-DT),... Homo sapiens    human           9606       50.1   50.1  100%  2e-05 100.00 994        XR_939463.3      
+PREDICTED: Homo sapiens SAP30 divergent transcript (SAP30-DT),... Homo sapiens    human           9606       50.1   50.1  100%  2e-05 100.00 879        XR_939462.2      
+Homo sapiens chromosome 4, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       50.1   399   100%  2e-05 100.00 190214555  NC_000004.12     
+Homo sapiens chromosome 8, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       30.2   321   100%  21    100.00 145138636  NC_000008.11     
+Homo sapiens testin LIM domain protein (TES), transcript varia... Homo sapiens    human           9606       28.2   28.2  72%   85    94.44  2614       NM_152829.3      
+Homo sapiens testin LIM domain protein (TES), transcript varia... Homo sapiens    human           9606       28.2   28.2  72%   85    94.44  2736       NM_015641.4      
+Homo sapiens EMX2 opposite strand/antisense RNA (EMX2OS),...      Homo sapiens    human           9606       28.2   28.2  72%   85    94.44  7201       NR_144378.1      
+PREDICTED: Homo sapiens testin LIM domain protein (TES),...       Homo sapiens    human           9606       28.2   28.2  72%   85    94.44  2653       XM_005250258.1   
+Homo sapiens EMX2 opposite strand/antisense RNA (EMX2OS),...      Homo sapiens    human           9606       28.2   28.2  72%   85    94.44  7282       NR_002791.2      
+Homo sapiens chromosome 11 genomic patch of type FIX, GRCh38.p... Homo sapiens    human           9606       28.2   28.2  56%   85    100.00 270122     NW_021160004.1   
+Homo sapiens chromosome 2, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       28.2   533   100%  85    100.00 242193529  NC_000002.12     
+Homo sapiens chromosome 3, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       28.2   185   100%  85    100.00 198295559  NC_000003.12     
+Homo sapiens chromosome 5, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       28.2   187   100%  85    94.44  181538259  NC_000005.10     
+Homo sapiens chromosome 6, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       28.2   319   100%  85    100.00 170805979  NC_000006.12     
+Homo sapiens chromosome 7, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       28.2   345   100%  85    94.44  159345973  NC_000007.14     
+Homo sapiens chromosome 9, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       28.2   268   100%  85    94.44  138394717  NC_000009.12     
+Homo sapiens chromosome 11, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       28.2   189   100%  85    100.00 135086622  NC_000011.10     
+Homo sapiens chromosome 12, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       28.2   187   100%  85    94.44  133275309  NC_000012.12     
+Homo sapiens chromosome 18, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       28.2   80.8  92%   85    100.00 80373285   NC_000018.10     
+Homo sapiens chromosome 20, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       28.2   133   100%  85    100.00 64444167   NC_000020.11     
+Homo sapiens chromosome 21, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       28.2   159   100%  85    100.00 46709983   NC_000021.9      
+Homo sapiens chromosome X, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       28.2   298   100%  85    100.00 156040895  NC_000023.11     
+Homo sapiens proline rich 33 (PRR33), mRNA                        Homo sapiens    human           9606       28.2   28.2  56%   85    100.00 3818       NM_001395380.1   
+Homo sapiens chromosome 10, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       28.2   238   100%  85    94.44  133797422  NC_000010.11     
+Homo sapiens chromosome 17, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       28.2   238   100%  85    100.00 83257441   NC_000017.11     
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13867      NM_001129829.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13768      NM_001129838.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13744      NM_001129842.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13993      NM_199460.4      
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13801      NM_001129834.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13711      NM_001129846.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13744      NM_001129841.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13849      NM_001167624.3   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13924      NM_001167625.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13744      NM_001129843.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13801      NM_001129835.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13804      NM_001129832.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13795      NM_001129836.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13735      NM_001129844.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13801      NM_001129833.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13762      NM_001129839.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13768      NM_001129837.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13828      NM_001129831.2   
+Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2),... Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 5963       NM_001135820.2   
+Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 4325       NM_001681.4      
+Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2),... Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 6118       NM_001349784.2   
+Homo sapiens armadillo repeat containing X-linked 1 (ARMCX1),...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 2125       NM_016608.2      
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13744      NM_001129840.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13744      NM_000719.7      
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13744      NM_001167623.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13888      NM_001129827.2   
+Homo sapiens calcium voltage-gated channel subunit alpha1 C...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13849      NM_001129830.3   
+Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+...    Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8295       NM_170665.4      
+Homo sapiens gamma-aminobutyric acid type A receptor subunit...   Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 1914       NM_000815.5      
+Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2),... Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 6152       NM_013390.3      
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13517      XM_011521023.3   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 14918      XM_017019955.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8063       XM_017019952.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8087       XM_017019951.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8090       XM_017019950.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8096       XM_017019949.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8096       XM_017019948.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8096       XM_017019947.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 9056       XM_017019946.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8096       XM_017019945.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8096       XM_017019944.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8096       XM_017019943.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8096       XM_017019942.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8114       XM_017019941.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8120       XM_017019940.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8147       XM_017019939.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8153       XM_017019938.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8153       XM_017019937.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8153       XM_017019936.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 14918      XM_017019935.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8171       XM_017019934.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8180       XM_017019933.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 9236       XM_017019932.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8291       XM_017019931.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 8375       XM_017019930.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 15122      XM_017019929.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 15179      XM_017019928.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 15392      XM_017019927.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 15497      XM_017019926.2   
+PREDICTED: Homo sapiens ATPase sarcoplasmic/endoplasmic...        Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 3731       XM_005253888.3   
+PREDICTED: Homo sapiens ATPase sarcoplasmic/endoplasmic...        Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 4187       XR_243009.3      
+PREDICTED: Homo sapiens ATPase sarcoplasmic/endoplasmic...        Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 5158       XM_011538402.3   
+PREDICTED: Homo sapiens ATPase sarcoplasmic/endoplasmic...        Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 5258       XR_002957329.1   
+PREDICTED: Homo sapiens gamma-aminobutyric acid type A recepto... Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 3835       XM_011541194.3   
+PREDICTED: Homo sapiens cell migration inducing hyaluronidase ... Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 5951       XM_005251869.4   
+PREDICTED: Homo sapiens uncharacterized LOC105374129...           Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 4401       XR_001740933.1   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13531      XM_017019954.1   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13531      XM_006719017.2   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13531      XM_017019953.1   
+PREDICTED: Homo sapiens calcium voltage-gated channel subunit...  Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 13606      XM_011521020.2   
+PREDICTED: Homo sapiens gamma-aminobutyric acid type A recepto... Homo sapiens    human           9606       26.3   26.3  52%   336   100.00 4971       XM_017000936.1   
+Homo sapiens chromosome 13, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       26.3   183   100%  336   94.12  114364328  NC_000013.11     
+Homo sapiens chromosome 15, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       26.3   52.5  52%   336   100.00 101991189  NC_000015.10     
+Homo sapiens chromosome 16, GRCh38.p13 Primary Assembly           Homo sapiens    human           9606       26.3   157   100%  336   100.00 90338345   NC_000016.10     
+Homo sapiens chromosome Y, GRCh38.p13 Primary Assembly            Homo sapiens    human           9606       26.3   52.5  52%   336   100.00 57227415   NC_000024.10     
+
+
+Alignments:
+
+>PREDICTED: Homo sapiens SAP30 divergent transcript (SAP30-DT), transcript variant X2, ncRNA
+Sequence ID: gi|1370488203|XR_939463.3 Length: 994
+Range 1: 548 to 572
+
+Score:50.1 bits(25), Expect:2e-05, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1    AAAATGCCATCGACGCAGAAAATCA  25
+            |||||||||||||||||||||||||
+Sbjct  548  AAAATGCCATCGACGCAGAAAATCA  572
+
+
+
+
+>PREDICTED: Homo sapiens SAP30 divergent transcript (SAP30-DT), transcript variant X1, ncRNA
+Sequence ID: gi|1034642096|XR_939462.2 Length: 879
+Range 1: 433 to 457
+
+Score:50.1 bits(25), Expect:2e-05, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Plus
+
+Query  1    AAAATGCCATCGACGCAGAAAATCA  25
+            |||||||||||||||||||||||||
+Sbjct  433  AAAATGCCATCGACGCAGAAAATCA  457
+
+
+
+
+>Homo sapiens chromosome 4, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815594|NC_000004.12 Length: 190214555
+Range 1: 173369437 to 173369461
+
+Score:50.1 bits(25), Expect:2e-05, 
+Identities:25/25(100%),  Gaps:0/25(0%), Strand: Plus/Minus
+
+Query  1          AAAATGCCATCGACGCAGAAAATCA  25
+                  |||||||||||||||||||||||||
+Sbjct  173369461  AAAATGCCATCGACGCAGAAAATCA  173369437
+
+
+
+
+Range 2: 7271601 to 7271614
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1        AAAATGCCATCGAC  14
+                ||||||||||||||
+Sbjct  7271601  AAAATGCCATCGAC  7271614
+
+
+
+
+Range 3: 47336066 to 47336079
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  47336066  AAAATGCCATCGAC  47336079
+
+
+
+
+Range 4: 107855742 to 107855759
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8          CATCGACGCAGAAAATCA  25
+                  |||| |||||||||||||
+Sbjct  107855759  CATCCACGCAGAAAATCA  107855742
+
+
+
+
+Range 5: 156035315 to 156035328
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  12         GACGCAGAAAATCA  25
+                  ||||||||||||||
+Sbjct  156035328  GACGCAGAAAATCA  156035315
+
+
+
+
+Range 6: 1241547 to 1241559
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        AAAATGCCATCGA  13
+                |||||||||||||
+Sbjct  1241547  AAAATGCCATCGA  1241559
+
+
+
+
+Range 7: 37968475 to 37968487
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  37968475  ACGCAGAAAATCA  37968487
+
+
+
+
+Range 8: 71289890 to 71289902
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  71289890  AAAATGCCATCGA  71289902
+
+
+
+
+Range 9: 125295880 to 125295892
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          AAATGCCATCGAC  14
+                  |||||||||||||
+Sbjct  125295880  AAATGCCATCGAC  125295892
+
+
+
+
+Range 10: 186732404 to 186732416
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  186732404  AAAATGCCATCGA  186732416
+
+
+
+
+Range 11: 86657298 to 86657310
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11        CGACGCAGAAAAT  23
+                 |||||||||||||
+Sbjct  86657310  CGACGCAGAAAAT  86657298
+
+
+
+
+Range 12: 117428062 to 117428078
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Minus
+
+Query  7          CCATCGACGCAGAAAAT  23
+                  ||||||| |||||||||
+Sbjct  117428078  CCATCGAAGCAGAAAAT  117428062
+
+
+
+
+Range 13: 175289463 to 175289475
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  175289475  AAAATGCCATCGA  175289463
+
+
+
+
+Range 14: 183753607 to 183753619
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  10         TCGACGCAGAAAA  22
+                  |||||||||||||
+Sbjct  183753619  TCGACGCAGAAAA  183753607
+
+
+
+
+>Homo sapiens chromosome 8, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815590|NC_000008.11 Length: 145138636
+Range 1: 31520193 to 31520207
+
+Score:30.2 bits(15), Expect:21, 
+Identities:15/15(100%),  Gaps:0/15(0%), Strand: Plus/Minus
+
+Query  9         ATCGACGCAGAAAAT  23
+                 |||||||||||||||
+Sbjct  31520207  ATCGACGCAGAAAAT  31520193
+
+
+
+
+Range 2: 135870278 to 135870291
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1          AAAATGCCATCGAC  14
+                  ||||||||||||||
+Sbjct  135870278  AAAATGCCATCGAC  135870291
+
+
+
+
+Range 3: 19960736 to 19960748
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  19960736  AAATGCCATCGAC  19960748
+
+
+
+
+Range 4: 50154771 to 50154783
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  50154771  AAAATGCCATCGA  50154783
+
+
+
+
+Range 5: 57231293 to 57231305
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  57231293  AAAATGCCATCGA  57231305
+
+
+
+
+Range 6: 6767017 to 6767029
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1        AAAATGCCATCGA  13
+                |||||||||||||
+Sbjct  6767029  AAAATGCCATCGA  6767017
+
+
+
+
+Range 7: 35354756 to 35354768
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  12        GACGCAGAAAATC  24
+                 |||||||||||||
+Sbjct  35354768  GACGCAGAAAATC  35354756
+
+
+
+
+Range 8: 61122871 to 61122883
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  61122883  ACGCAGAAAATCA  61122871
+
+
+
+
+Range 9: 93589465 to 93589477
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  93589477  ACGCAGAAAATCA  93589465
+
+
+
+
+Range 10: 124600232 to 124600244
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  124600244  AAAATGCCATCGA  124600232
+
+
+
+
+Range 11: 128712511 to 128712523
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11         CGACGCAGAAAAT  23
+                  |||||||||||||
+Sbjct  128712523  CGACGCAGAAAAT  128712511
+
+
+
+
+Range 12: 132911775 to 132911787
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  132911787  ACGCAGAAAATCA  132911775
+
+
+
+
+>Homo sapiens testin LIM domain protein (TES), transcript variant 2, mRNA.
+Sequence ID: gi|1676317162|NM_152829.3 Length: 2614
+Range 1: 1143 to 1160
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  3     AATGCCATCGACGCAGAA  20
+             |||||||||||| |||||
+Sbjct  1143  AATGCCATCGACCCAGAA  1160
+
+
+
+
+>Homo sapiens testin LIM domain protein (TES), transcript variant 1, mRNA.
+Sequence ID: gi|1519243282|NM_015641.4 Length: 2736
+Range 1: 1265 to 1282
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  3     AATGCCATCGACGCAGAA  20
+             |||||||||||| |||||
+Sbjct  1265  AATGCCATCGACCCAGAA  1282
+
+
+
+
+>Homo sapiens EMX2 opposite strand/antisense RNA (EMX2OS), transcript variant 2, antisense RNA.
+Sequence ID: gi|1070690322|NR_144378.1 Length: 7201
+Range 1: 3440 to 3457
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  2     AAATGCCATCGACGCAGA  19
+             ||||||||||||| ||||
+Sbjct  3440  AAATGCCATCGACCCAGA  3457
+
+
+
+
+>PREDICTED: Homo sapiens testin LIM domain protein (TES), transcript variant X1, mRNA
+Sequence ID: gi|530385716|XM_005250258.1 Length: 2653
+Range 1: 1179 to 1196
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  3     AATGCCATCGACGCAGAA  20
+             |||||||||||| |||||
+Sbjct  1179  AATGCCATCGACCCAGAA  1196
+
+
+
+
+>Homo sapiens EMX2 opposite strand/antisense RNA (EMX2OS), transcript variant 1, antisense RNA.
+Sequence ID: gi|105554499|NR_002791.2 Length: 7282
+Range 1: 3521 to 3538
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  2     AAATGCCATCGACGCAGA  19
+             ||||||||||||| ||||
+Sbjct  3521  AAATGCCATCGACCCAGA  3538
+
+
+
+
+>Homo sapiens chromosome 11 genomic patch of type FIX, GRCh38.p13 PATCHES HG28_PATCH
+Sequence ID: gi|1595688550|NW_021160004.1 Length: 270122
+Range 1: 81061 to 81074
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  5      TGCCATCGACGCAG  18
+              ||||||||||||||
+Sbjct  81061  TGCCATCGACGCAG  81074
+
+
+
+
+>Homo sapiens chromosome 2, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815596|NC_000002.12 Length: 242193529
+Range 1: 76623474 to 76623487
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12        GACGCAGAAAATCA  25
+                 ||||||||||||||
+Sbjct  76623474  GACGCAGAAAATCA  76623487
+
+
+
+
+Range 2: 120156878 to 120156895
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  8          CATCGACGCAGAAAATCA  25
+                  |||||| |||||||||||
+Sbjct  120156878  CATCGAAGCAGAAAATCA  120156895
+
+
+
+
+Range 3: 131159507 to 131159520
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  12         GACGCAGAAAATCA  25
+                  ||||||||||||||
+Sbjct  131159520  GACGCAGAAAATCA  131159507
+
+
+
+
+Range 4: 222096064 to 222096077
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1          AAAATGCCATCGAC  14
+                  ||||||||||||||
+Sbjct  222096077  AAAATGCCATCGAC  222096064
+
+
+
+
+Range 5: 22559791 to 22559803
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  22559791  AAAATGCCATCGA  22559803
+
+
+
+
+Range 6: 43512124 to 43512136
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  43512124  AAAATGCCATCGA  43512136
+
+
+
+
+Range 7: 57517023 to 57517039
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  9         ATCGACGCAGAAAATCA  25
+                 |||||| ||||||||||
+Sbjct  57517023  ATCGACACAGAAAATCA  57517039
+
+
+
+
+Range 8: 63247106 to 63247118
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  63247106  AAAATGCCATCGA  63247118
+
+
+
+
+Range 9: 78766683 to 78766695
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  78766683  ACGCAGAAAATCA  78766695
+
+
+
+
+Range 10: 118431910 to 118431922
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  118431910  ACGCAGAAAATCA  118431922
+
+
+
+
+Range 11: 190053466 to 190053478
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  190053466  AAAATGCCATCGA  190053478
+
+
+
+
+Range 12: 190562758 to 190562770
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          AAATGCCATCGAC  14
+                  |||||||||||||
+Sbjct  190562758  AAATGCCATCGAC  190562770
+
+
+
+
+Range 13: 212623659 to 212623671
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12         GACGCAGAAAATC  24
+                  |||||||||||||
+Sbjct  212623659  GACGCAGAAAATC  212623671
+
+
+
+
+Range 14: 221448629 to 221448641
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  221448629  AAAATGCCATCGA  221448641
+
+
+
+
+Range 15: 20358398 to 20358410
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  12        GACGCAGAAAATC  24
+                 |||||||||||||
+Sbjct  20358410  GACGCAGAAAATC  20358398
+
+
+
+
+Range 16: 101460317 to 101460329
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  9          ATCGACGCAGAAA  21
+                  |||||||||||||
+Sbjct  101460329  ATCGACGCAGAAA  101460317
+
+
+
+
+Range 17: 119092874 to 119092886
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  119092886  ACGCAGAAAATCA  119092874
+
+
+
+
+Range 18: 139522848 to 139522860
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  139522860  AAAATGCCATCGA  139522848
+
+
+
+
+Range 19: 186045073 to 186045085
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  186045085  ACGCAGAAAATCA  186045073
+
+
+
+
+Range 20: 225207979 to 225207991
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  225207991  AAAATGCCATCGA  225207979
+
+
+
+
+>Homo sapiens chromosome 3, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815595|NC_000003.12 Length: 198295559
+Range 1: 107623108 to 107623121
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  5          TGCCATCGACGCAG  18
+                  ||||||||||||||
+Sbjct  107623108  TGCCATCGACGCAG  107623121
+
+
+
+
+Range 2: 20148720 to 20148732
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  12        GACGCAGAAAATC  24
+                 |||||||||||||
+Sbjct  20148720  GACGCAGAAAATC  20148732
+
+
+
+
+Range 3: 43505150 to 43505162
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  43505150  AAAATGCCATCGA  43505162
+
+
+
+
+Range 4: 82516326 to 82516338
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  82516326  AAAATGCCATCGA  82516338
+
+
+
+
+Range 5: 138411053 to 138411065
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          AAATGCCATCGAC  14
+                  |||||||||||||
+Sbjct  138411053  AAATGCCATCGAC  138411065
+
+
+
+
+Range 6: 149603754 to 149603766
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  149603754  ACGCAGAAAATCA  149603766
+
+
+
+
+Range 7: 116663069 to 116663081
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  116663081  ACGCAGAAAATCA  116663069
+
+
+
+
+>Homo sapiens chromosome 5, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815593|NC_000005.10 Length: 181538259
+Range 1: 56392198 to 56392215
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  8         CATCGACGCAGAAAATCA  25
+                 |||||| |||||||||||
+Sbjct  56392198  CATCGAGGCAGAAAATCA  56392215
+
+
+
+
+Range 2: 122005200 to 122005217
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  8          CATCGACGCAGAAAATCA  25
+                  |||||| |||||||||||
+Sbjct  122005217  CATCGAGGCAGAAAATCA  122005200
+
+
+
+
+Range 3: 43037611 to 43037623
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  3         AATGCCATCGACG  15
+                 |||||||||||||
+Sbjct  43037611  AATGCCATCGACG  43037623
+
+
+
+
+Range 4: 60012674 to 60012686
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  60012674  AAATGCCATCGAC  60012686
+
+
+
+
+Range 5: 93008266 to 93008278
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  93008266  AAAATGCCATCGA  93008278
+
+
+
+
+Range 6: 124213230 to 124213242
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11         CGACGCAGAAAAT  23
+                  |||||||||||||
+Sbjct  124213230  CGACGCAGAAAAT  124213242
+
+
+
+
+Range 7: 157902804 to 157902816
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  8          CATCGACGCAGAA  20
+                  |||||||||||||
+Sbjct  157902804  CATCGACGCAGAA  157902816
+
+
+
+
+>Homo sapiens chromosome 6, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815592|NC_000006.12 Length: 170805979
+Range 1: 46877920 to 46877933
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  46877920  AAAATGCCATCGAC  46877933
+
+
+
+
+Range 2: 143146945 to 143146958
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12         GACGCAGAAAATCA  25
+                  ||||||||||||||
+Sbjct  143146945  GACGCAGAAAATCA  143146958
+
+
+
+
+Range 3: 13708788 to 13708800
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  13708788  ACGCAGAAAATCA  13708800
+
+
+
+
+Range 4: 35112160 to 35112176
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  7         CCATCGACGCAGAAAAT  23
+                 ||||| |||||||||||
+Sbjct  35112160  CCATCTACGCAGAAAAT  35112176
+
+
+
+
+Range 5: 86136381 to 86136397
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  9         ATCGACGCAGAAAATCA  25
+                 ||||| |||||||||||
+Sbjct  86136381  ATCGAGGCAGAAAATCA  86136397
+
+
+
+
+Range 6: 120894039 to 120894051
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  120894039  ACGCAGAAAATCA  120894051
+
+
+
+
+Range 7: 160737757 to 160737769
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2          AAATGCCATCGAC  14
+                  |||||||||||||
+Sbjct  160737757  AAATGCCATCGAC  160737769
+
+
+
+
+Range 8: 4156724 to 4156736
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  6        GCCATCGACGCAG  18
+                |||||||||||||
+Sbjct  4156736  GCCATCGACGCAG  4156724
+
+
+
+
+Range 9: 82284590 to 82284602
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  9         ATCGACGCAGAAA  21
+                 |||||||||||||
+Sbjct  82284602  ATCGACGCAGAAA  82284590
+
+
+
+
+Range 10: 160460506 to 160460518
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          AAATGCCATCGAC  14
+                  |||||||||||||
+Sbjct  160460518  AAATGCCATCGAC  160460506
+
+
+
+
+Range 11: 160541938 to 160541950
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          AAATGCCATCGAC  14
+                  |||||||||||||
+Sbjct  160541950  AAATGCCATCGAC  160541938
+
+
+
+
+Range 12: 164441662 to 164441674
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  164441674  ACGCAGAAAATCA  164441662
+
+
+
+
+>Homo sapiens chromosome 7, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815591|NC_000007.14 Length: 159345973
+Range 1: 116257312 to 116257329
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  3          AATGCCATCGACGCAGAA  20
+                  |||||||||||| |||||
+Sbjct  116257312  AATGCCATCGACCCAGAA  116257329
+
+
+
+
+Range 2: 9007735 to 9007748
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  12       GACGCAGAAAATCA  25
+                ||||||||||||||
+Sbjct  9007748  GACGCAGAAAATCA  9007735
+
+
+
+
+Range 3: 50645013 to 50645025
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11        CGACGCAGAAAAT  23
+                 |||||||||||||
+Sbjct  50645013  CGACGCAGAAAAT  50645025
+
+
+
+
+Range 4: 79902250 to 79902262
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  79902250  AAAATGCCATCGA  79902262
+
+
+
+
+Range 5: 120792734 to 120792746
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  120792734  AAAATGCCATCGA  120792746
+
+
+
+
+Range 6: 6717694 to 6717706
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2        AAATGCCATCGAC  14
+                |||||||||||||
+Sbjct  6717706  AAATGCCATCGAC  6717694
+
+
+
+
+Range 7: 13910861 to 13910873
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  13910873  AAAATGCCATCGA  13910861
+
+
+
+
+Range 8: 29598880 to 29598892
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  29598892  ACGCAGAAAATCA  29598880
+
+
+
+
+Range 9: 32771067 to 32771079
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  32771079  AAATGCCATCGAC  32771067
+
+
+
+
+Range 10: 45542717 to 45542729
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  5         TGCCATCGACGCA  17
+                 |||||||||||||
+Sbjct  45542729  TGCCATCGACGCA  45542717
+
+
+
+
+Range 11: 82004860 to 82004872
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  82004872  AAAATGCCATCGA  82004860
+
+
+
+
+Range 12: 124631297 to 124631309
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  124631309  ACGCAGAAAATCA  124631297
+
+
+
+
+Range 13: 131217064 to 131217076
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          AAATGCCATCGAC  14
+                  |||||||||||||
+Sbjct  131217076  AAATGCCATCGAC  131217064
+
+
+
+
+>Homo sapiens chromosome 9, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815589|NC_000009.12 Length: 138394717
+Range 1: 15236412 to 15236429
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  8         CATCGACGCAGAAAATCA  25
+                 |||||| |||||||||||
+Sbjct  15236412  CATCGAGGCAGAAAATCA  15236429
+
+
+
+
+Range 2: 20036589 to 20036602
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  12        GACGCAGAAAATCA  25
+                 ||||||||||||||
+Sbjct  20036602  GACGCAGAAAATCA  20036589
+
+
+
+
+Range 3: 20158606 to 20158619
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  20158619  AAAATGCCATCGAC  20158606
+
+
+
+
+Range 4: 75440744 to 75440756
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  75440744  AAATGCCATCGAC  75440756
+
+
+
+
+Range 5: 126157945 to 126157965
+
+Score:26.3 bits(13), Expect:336, 
+Identities:19/21(90%),  Gaps:0/21(0%), Strand: Plus/Plus
+
+Query  3          AATGCCATCGACGCAGAAAAT  23
+                  |||| |||||||||| |||||
+Sbjct  126157945  AATGTCATCGACGCACAAAAT  126157965
+
+
+
+
+Range 6: 135658697 to 135658709
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6          GCCATCGACGCAG  18
+                  |||||||||||||
+Sbjct  135658697  GCCATCGACGCAG  135658709
+
+
+
+
+Range 7: 71732394 to 71732406
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  71732406  ACGCAGAAAATCA  71732394
+
+
+
+
+Range 8: 95773225 to 95773237
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  95773237  AAAATGCCATCGA  95773225
+
+
+
+
+Range 9: 119655045 to 119655057
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  119655057  ACGCAGAAAATCA  119655045
+
+
+
+
+Range 10: 120960109 to 120960121
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  120960121  AAAATGCCATCGA  120960109
+
+
+
+
+>Homo sapiens chromosome 11, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815587|NC_000011.10 Length: 135086622
+Range 1: 1890558 to 1890571
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  5        TGCCATCGACGCAG  18
+                ||||||||||||||
+Sbjct  1890558  TGCCATCGACGCAG  1890571
+
+
+
+
+Range 2: 78910381 to 78910394
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  78910381  AAAATGCCATCGAC  78910394
+
+
+
+
+Range 3: 26439075 to 26439088
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  26439088  AAAATGCCATCGAC  26439075
+
+
+
+
+Range 4: 107835062 to 107835074
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  107835062  ACGCAGAAAATCA  107835074
+
+
+
+
+Range 5: 13400624 to 13400636
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  11        CGACGCAGAAAAT  23
+                 |||||||||||||
+Sbjct  13400636  CGACGCAGAAAAT  13400624
+
+
+
+
+Range 6: 68804295 to 68804311
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Minus
+
+Query  9         ATCGACGCAGAAAATCA  25
+                 |||||| ||||||||||
+Sbjct  68804311  ATCGACACAGAAAATCA  68804295
+
+
+
+
+Range 7: 91566931 to 91566943
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  91566943  ACGCAGAAAATCA  91566931
+
+
+
+
+>Homo sapiens chromosome 12, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815586|NC_000012.12 Length: 133275309
+Range 1: 10581790 to 10581807
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Plus
+
+Query  8         CATCGACGCAGAAAATCA  25
+                 |||| |||||||||||||
+Sbjct  10581790  CATCCACGCAGAAAATCA  10581807
+
+
+
+
+Range 2: 83341164 to 83341177
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  83341164  AAAATGCCATCGAC  83341177
+
+
+
+
+Range 3: 2115337 to 2115349
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6        GCCATCGACGCAG  18
+                |||||||||||||
+Sbjct  2115337  GCCATCGACGCAG  2115349
+
+
+
+
+Range 4: 99003365 to 99003377
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  99003365  AAAATGCCATCGA  99003377
+
+
+
+
+Range 5: 110296612 to 110296624
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  110296612  AAAATGCCATCGA  110296624
+
+
+
+
+Range 6: 61125243 to 61125259
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Minus
+
+Query  9         ATCGACGCAGAAAATCA  25
+                 ||||| |||||||||||
+Sbjct  61125259  ATCGAGGCAGAAAATCA  61125243
+
+
+
+
+Range 7: 64689559 to 64689571
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  64689571  AAAATGCCATCGA  64689559
+
+
+
+
+>Homo sapiens chromosome 18, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815580|NC_000018.10 Length: 80373285
+Range 1: 4017998 to 4018011
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  12       GACGCAGAAAATCA  25
+                ||||||||||||||
+Sbjct  4017998  GACGCAGAAAATCA  4018011
+
+
+
+
+Range 2: 5214660 to 5214676
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  3        AATGCCATCGACGCAGA  19
+                |||||||||||| ||||
+Sbjct  5214660  AATGCCATCGACTCAGA  5214676
+
+
+
+
+Range 3: 74899283 to 74899295
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  74899283  ACGCAGAAAATCA  74899295
+
+
+
+
+>Homo sapiens chromosome 20, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815578|NC_000020.11 Length: 64444167
+Range 1: 19124903 to 19124916
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  19124903  AAAATGCCATCGAC  19124916
+
+
+
+
+Range 2: 5441393 to 5441405
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13       ACGCAGAAAATCA  25
+                |||||||||||||
+Sbjct  5441393  ACGCAGAAAATCA  5441405
+
+
+
+
+Range 3: 58571989 to 58572001
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  58571989  ACGCAGAAAATCA  58572001
+
+
+
+
+Range 4: 8367087 to 8367099
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2        AAATGCCATCGAC  14
+                |||||||||||||
+Sbjct  8367099  AAATGCCATCGAC  8367087
+
+
+
+
+Range 5: 32503267 to 32503279
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  32503279  AAATGCCATCGAC  32503267
+
+
+
+
+>Homo sapiens chromosome 21, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815577|NC_000021.9 Length: 46709983
+Range 1: 40053663 to 40053676
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  40053663  AAAATGCCATCGAC  40053676
+
+
+
+
+Range 2: 15085477 to 15085489
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  15085477  ACGCAGAAAATCA  15085489
+
+
+
+
+Range 3: 17064884 to 17064896
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  17064884  AAAATGCCATCGA  17064896
+
+
+
+
+Range 4: 37497404 to 37497416
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  37497404  AAAATGCCATCGA  37497416
+
+
+
+
+Range 5: 44892888 to 44892900
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  44892888  ACGCAGAAAATCA  44892900
+
+
+
+
+Range 6: 29426757 to 29426769
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  12        GACGCAGAAAATC  24
+                 |||||||||||||
+Sbjct  29426769  GACGCAGAAAATC  29426757
+
+
+
+
+>Homo sapiens chromosome X, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815575|NC_000023.11 Length: 156040895
+Range 1: 114878927 to 114878940
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Plus
+
+Query  1          AAAATGCCATCGAC  14
+                  ||||||||||||||
+Sbjct  114878927  AAAATGCCATCGAC  114878940
+
+
+
+
+Range 2: 140008678 to 140008699
+
+Score:28.2 bits(14), Expect:85, 
+Identities:20/22(91%),  Gaps:0/22(0%), Strand: Plus/Plus
+
+Query  4          ATGCCATCGACGCAGAAAATCA  25
+                  |||||||| | |||||||||||
+Sbjct  140008678  ATGCCATCAAAGCAGAAAATCA  140008699
+
+
+
+
+Range 3: 9913562 to 9913575
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1        AAAATGCCATCGAC  14
+                ||||||||||||||
+Sbjct  9913575  AAAATGCCATCGAC  9913562
+
+
+
+
+Range 4: 140224920 to 140224941
+
+Score:28.2 bits(14), Expect:85, 
+Identities:20/22(91%),  Gaps:0/22(0%), Strand: Plus/Minus
+
+Query  4          ATGCCATCGACGCAGAAAATCA  25
+                  |||||||| | |||||||||||
+Sbjct  140224941  ATGCCATCAAAGCAGAAAATCA  140224920
+
+
+
+
+Range 5: 152612668 to 152612681
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  9          ATCGACGCAGAAAA  22
+                  ||||||||||||||
+Sbjct  152612681  ATCGACGCAGAAAA  152612668
+
+
+
+
+Range 6: 9934262 to 9934278
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  7        CCATCGACGCAGAAAAT  23
+                |||||| ||||||||||
+Sbjct  9934262  CCATCGCCGCAGAAAAT  9934278
+
+
+
+
+Range 7: 21893571 to 21893583
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  21893571  AAAATGCCATCGA  21893583
+
+
+
+
+Range 8: 101553760 to 101553772
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  101553760  ACGCAGAAAATCA  101553772
+
+
+
+
+Range 9: 140576038 to 140576050
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  11         CGACGCAGAAAAT  23
+                  |||||||||||||
+Sbjct  140576038  CGACGCAGAAAAT  140576050
+
+
+
+
+Range 10: 153761227 to 153761239
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  153761227  ACGCAGAAAATCA  153761239
+
+
+
+
+Range 11: 115991308 to 115991320
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1          AAAATGCCATCGA  13
+                  |||||||||||||
+Sbjct  115991320  AAAATGCCATCGA  115991308
+
+
+
+
+>Homo sapiens proline rich 33 (PRR33), mRNA.
+Sequence ID: gi|2057283065|NM_001395380.1 Length: 3818
+Range 1: 1325 to 1338
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  5     TGCCATCGACGCAG  18
+             ||||||||||||||
+Sbjct  1338  TGCCATCGACGCAG  1325
+
+
+
+
+>Homo sapiens chromosome 10, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815588|NC_000010.11 Length: 133797422
+Range 1: 117488037 to 117488054
+
+Score:28.2 bits(14), Expect:85, 
+Identities:17/18(94%),  Gaps:0/18(0%), Strand: Plus/Minus
+
+Query  2          AAATGCCATCGACGCAGA  19
+                  ||||||||||||| ||||
+Sbjct  117488054  AAATGCCATCGACCCAGA  117488037
+
+
+
+
+Range 2: 8392245 to 8392257
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13       ACGCAGAAAATCA  25
+                |||||||||||||
+Sbjct  8392245  ACGCAGAAAATCA  8392257
+
+
+
+
+Range 3: 102119983 to 102119995
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  4          ATGCCATCGACGC  16
+                  |||||||||||||
+Sbjct  102119983  ATGCCATCGACGC  102119995
+
+
+
+
+Range 4: 12917598 to 12917610
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  12917610  ACGCAGAAAATCA  12917598
+
+
+
+
+Range 5: 18136180 to 18136192
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  5         TGCCATCGACGCA  17
+                 |||||||||||||
+Sbjct  18136192  TGCCATCGACGCA  18136180
+
+
+
+
+Range 6: 23738487 to 23738499
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  23738499  ACGCAGAAAATCA  23738487
+
+
+
+
+Range 7: 88030228 to 88030240
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  88030240  AAAATGCCATCGA  88030228
+
+
+
+
+Range 8: 104106883 to 104106895
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2          AAATGCCATCGAC  14
+                  |||||||||||||
+Sbjct  104106895  AAATGCCATCGAC  104106883
+
+
+
+
+Range 9: 132363320 to 132363332
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  132363332  ACGCAGAAAATCA  132363320
+
+
+
+
+>Homo sapiens chromosome 17, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815581|NC_000017.11 Length: 83257441
+Range 1: 61497035 to 61497048
+
+Score:28.2 bits(14), Expect:85, 
+Identities:14/14(100%),  Gaps:0/14(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGAC  14
+                 ||||||||||||||
+Sbjct  61497048  AAAATGCCATCGAC  61497035
+
+
+
+
+Range 2: 7136613 to 7136625
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1        AAAATGCCATCGA  13
+                |||||||||||||
+Sbjct  7136613  AAAATGCCATCGA  7136625
+
+
+
+
+Range 3: 12628079 to 12628091
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  10        TCGACGCAGAAAA  22
+                 |||||||||||||
+Sbjct  12628079  TCGACGCAGAAAA  12628091
+
+
+
+
+Range 4: 70065796 to 70065808
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  70065796  ACGCAGAAAATCA  70065808
+
+
+
+
+Range 5: 79452378 to 79452394
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  4         ATGCCATCGACGCAGAA  20
+                 ||||| |||||||||||
+Sbjct  79452378  ATGCCTTCGACGCAGAA  79452394
+
+
+
+
+Range 6: 901632 to 901644
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1       AAAATGCCATCGA  13
+               |||||||||||||
+Sbjct  901644  AAAATGCCATCGA  901632
+
+
+
+
+Range 7: 1695032 to 1695044
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  5        TGCCATCGACGCA  17
+                |||||||||||||
+Sbjct  1695044  TGCCATCGACGCA  1695032
+
+
+
+
+Range 8: 9064444 to 9064456
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  8        CATCGACGCAGAA  20
+                |||||||||||||
+Sbjct  9064456  CATCGACGCAGAA  9064444
+
+
+
+
+Range 9: 77788621 to 77788633
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  7         CCATCGACGCAGA  19
+                 |||||||||||||
+Sbjct  77788633  CCATCGACGCAGA  77788621
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 3, mRNA.
+Sequence ID: gi|1890342245|NM_001129829.2 Length: 13867
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 12, mRNA.
+Sequence ID: gi|1890341555|NM_001129838.2 Length: 13768
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 16, mRNA.
+Sequence ID: gi|1890334157|NM_001129842.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 1, mRNA.
+Sequence ID: gi|1890333913|NM_199460.4 Length: 13993
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 8, mRNA.
+Sequence ID: gi|1890327937|NM_001129834.2 Length: 13801
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 20, mRNA.
+Sequence ID: gi|1890327847|NM_001129846.2 Length: 13711
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 15, mRNA.
+Sequence ID: gi|1890327537|NM_001129841.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 22, mRNA.
+Sequence ID: gi|1890321653|NM_001167624.3 Length: 13849
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 23, mRNA.
+Sequence ID: gi|1890284013|NM_001167625.2 Length: 13924
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 17, mRNA.
+Sequence ID: gi|1890273908|NM_001129843.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 9, mRNA.
+Sequence ID: gi|1890266245|NM_001129835.2 Length: 13801
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 6, mRNA.
+Sequence ID: gi|1890265802|NM_001129832.2 Length: 13804
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 10, mRNA.
+Sequence ID: gi|1890265703|NM_001129836.2 Length: 13795
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 19, mRNA.
+Sequence ID: gi|1890263962|NM_001129844.2 Length: 13735
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 7, mRNA.
+Sequence ID: gi|1890255540|NM_001129833.2 Length: 13801
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 13, mRNA.
+Sequence ID: gi|1890250423|NM_001129839.2 Length: 13762
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 11, mRNA.
+Sequence ID: gi|1889722104|NM_001129837.2 Length: 13768
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 5, mRNA.
+Sequence ID: gi|1889604333|NM_001129831.2 Length: 13828
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2), transcript variant 2, mRNA.
+Sequence ID: gi|1676440518|NM_001135820.2 Length: 5963
+Range 1: 1488 to 1500
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    ACGCAGAAAATCA  25
+             |||||||||||||
+Sbjct  1488  ACGCAGAAAATCA  1500
+
+
+
+
+>Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 (ATP2A2), transcript variant a, mRNA.
+Sequence ID: gi|1676317594|NM_001681.4 Length: 4325
+Range 1: 881 to 893
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1    AAAATGCCATCGA  13
+            |||||||||||||
+Sbjct  881  AAAATGCCATCGA  893
+
+
+
+
+>Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2), transcript variant 3, mRNA.
+Sequence ID: gi|1675178388|NM_001349784.2 Length: 6118
+Range 1: 1677 to 1689
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    ACGCAGAAAATCA  25
+             |||||||||||||
+Sbjct  1677  ACGCAGAAAATCA  1689
+
+
+
+
+>Homo sapiens armadillo repeat containing X-linked 1 (ARMCX1), mRNA.
+Sequence ID: gi|1653962094|NM_016608.2 Length: 2125
+Range 1: 1185 to 1197
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    ACGCAGAAAATCA  25
+             |||||||||||||
+Sbjct  1185  ACGCAGAAAATCA  1197
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 14, mRNA.
+Sequence ID: gi|1631890801|NM_001129840.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 18, mRNA.
+Sequence ID: gi|1631890800|NM_000719.7 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 21, mRNA.
+Sequence ID: gi|1631890799|NM_001167623.2 Length: 13744
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 2, mRNA.
+Sequence ID: gi|1631886399|NM_001129827.2 Length: 13888
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant 4, mRNA.
+Sequence ID: gi|1631881912|NM_001129830.3 Length: 13849
+Range 1: 739 to 751
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  739  GCCATCGACGCAG  751
+
+
+
+
+>Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 (ATP2A2), transcript variant b, mRNA.
+Sequence ID: gi|1519316427|NM_170665.4 Length: 8295
+Range 1: 881 to 893
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1    AAAATGCCATCGA  13
+            |||||||||||||
+Sbjct  881  AAAATGCCATCGA  893
+
+
+
+
+>Homo sapiens gamma-aminobutyric acid type A receptor subunit delta (GABRD), mRNA.
+Sequence ID: gi|1519315726|NM_000815.5 Length: 1914
+Range 1: 1341 to 1353
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  7     CCATCGACGCAGA  19
+             |||||||||||||
+Sbjct  1341  CCATCGACGCAGA  1353
+
+
+
+
+>Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2), transcript variant 1, mRNA.
+Sequence ID: gi|1519244870|NM_013390.3 Length: 6152
+Range 1: 1677 to 1689
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    ACGCAGAAAATCA  25
+             |||||||||||||
+Sbjct  1677  ACGCAGAAAATCA  1689
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X33, mRNA
+Sequence ID: gi|1370462811|XM_011521023.3 Length: 13517
+Range 1: 441 to 453
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  441  GCCATCGACGCAG  453
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X32, mRNA
+Sequence ID: gi|1370462810|XM_017019955.2 Length: 14918
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X27, mRNA
+Sequence ID: gi|1370462809|XM_017019952.2 Length: 8063
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X26, mRNA
+Sequence ID: gi|1370462808|XM_017019951.2 Length: 8087
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X25, mRNA
+Sequence ID: gi|1370462807|XM_017019950.2 Length: 8090
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X24, mRNA
+Sequence ID: gi|1370462806|XM_017019949.2 Length: 8096
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X23, mRNA
+Sequence ID: gi|1370462805|XM_017019948.2 Length: 8096
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X22, mRNA
+Sequence ID: gi|1370462804|XM_017019947.2 Length: 8096
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X21, mRNA
+Sequence ID: gi|1370462803|XM_017019946.2 Length: 9056
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X20, mRNA
+Sequence ID: gi|1370462802|XM_017019945.2 Length: 8096
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X19, mRNA
+Sequence ID: gi|1370462801|XM_017019944.2 Length: 8096
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X18, mRNA
+Sequence ID: gi|1370462800|XM_017019943.2 Length: 8096
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X17, mRNA
+Sequence ID: gi|1370462799|XM_017019942.2 Length: 8096
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X16, mRNA
+Sequence ID: gi|1370462798|XM_017019941.2 Length: 8114
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X15, mRNA
+Sequence ID: gi|1370462797|XM_017019940.2 Length: 8120
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X14, mRNA
+Sequence ID: gi|1370462796|XM_017019939.2 Length: 8147
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X13, mRNA
+Sequence ID: gi|1370462795|XM_017019938.2 Length: 8153
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X12, mRNA
+Sequence ID: gi|1370462794|XM_017019937.2 Length: 8153
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X11, mRNA
+Sequence ID: gi|1370462793|XM_017019936.2 Length: 8153
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X10, mRNA
+Sequence ID: gi|1370462792|XM_017019935.2 Length: 14918
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X9, mRNA
+Sequence ID: gi|1370462791|XM_017019934.2 Length: 8171
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X8, mRNA
+Sequence ID: gi|1370462790|XM_017019933.2 Length: 8180
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X7, mRNA
+Sequence ID: gi|1370462789|XM_017019932.2 Length: 9236
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X6, mRNA
+Sequence ID: gi|1370462788|XM_017019931.2 Length: 8291
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X5, mRNA
+Sequence ID: gi|1370462787|XM_017019930.2 Length: 8375
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X4, mRNA
+Sequence ID: gi|1370462786|XM_017019929.2 Length: 15122
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X3, mRNA
+Sequence ID: gi|1370462785|XM_017019928.2 Length: 15179
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X2, mRNA
+Sequence ID: gi|1370462784|XM_017019927.2 Length: 15392
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X1, mRNA
+Sequence ID: gi|1370462783|XM_017019926.2 Length: 15497
+Range 1: 1842 to 1854
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6     GCCATCGACGCAG  18
+             |||||||||||||
+Sbjct  1842  GCCATCGACGCAG  1854
+
+
+
+
+>PREDICTED: Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 (ATP2A2), transcript variant X4, mRNA
+Sequence ID: gi|1370461964|XM_005253888.3 Length: 3731
+Range 1: 344 to 356
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1    AAAATGCCATCGA  13
+            |||||||||||||
+Sbjct  344  AAAATGCCATCGA  356
+
+
+
+
+>PREDICTED: Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 (ATP2A2), transcript variant X3, misc_RNA
+Sequence ID: gi|1370461963|XR_243009.3 Length: 4187
+Range 1: 344 to 356
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1    AAAATGCCATCGA  13
+            |||||||||||||
+Sbjct  344  AAAATGCCATCGA  356
+
+
+
+
+>PREDICTED: Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 (ATP2A2), transcript variant X2, mRNA
+Sequence ID: gi|1370461962|XM_011538402.3 Length: 5158
+Range 1: 344 to 356
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1    AAAATGCCATCGA  13
+            |||||||||||||
+Sbjct  344  AAAATGCCATCGA  356
+
+
+
+
+>PREDICTED: Homo sapiens ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2 (ATP2A2), transcript variant X1, misc_RNA
+Sequence ID: gi|1370461961|XR_002957329.1 Length: 5258
+Range 1: 344 to 356
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1    AAAATGCCATCGA  13
+            |||||||||||||
+Sbjct  344  AAAATGCCATCGA  356
+
+
+
+
+>PREDICTED: Homo sapiens gamma-aminobutyric acid type A receptor subunit delta (GABRD), transcript variant X2, mRNA
+Sequence ID: gi|1370452715|XM_011541194.3 Length: 3835
+Range 1: 3269 to 3281
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  7     CCATCGACGCAGA  19
+             |||||||||||||
+Sbjct  3269  CCATCGACGCAGA  3281
+
+
+
+
+>PREDICTED: Homo sapiens cell migration inducing hyaluronidase 2 (CEMIP2), transcript variant X1, mRNA
+Sequence ID: gi|1034664719|XM_005251869.4 Length: 5951
+Range 1: 1681 to 1693
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13    ACGCAGAAAATCA  25
+             |||||||||||||
+Sbjct  1681  ACGCAGAAAATCA  1693
+
+
+
+
+>PREDICTED: Homo sapiens uncharacterized LOC105374129 (LOC105374129), ncRNA
+Sequence ID: gi|1034637772|XR_001740933.1 Length: 4401
+Range 1: 779 to 791
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2    AAATGCCATCGAC  14
+            |||||||||||||
+Sbjct  779  AAATGCCATCGAC  791
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X31, mRNA
+Sequence ID: gi|1034581539|XM_017019954.1 Length: 13531
+Range 1: 530 to 542
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  530  GCCATCGACGCAG  542
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X30, mRNA
+Sequence ID: gi|1034581538|XM_006719017.2 Length: 13531
+Range 1: 530 to 542
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  530  GCCATCGACGCAG  542
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X29, mRNA
+Sequence ID: gi|1034581536|XM_017019953.1 Length: 13531
+Range 1: 530 to 542
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  530  GCCATCGACGCAG  542
+
+
+
+
+>PREDICTED: Homo sapiens calcium voltage-gated channel subunit alpha1 C (CACNA1C), transcript variant X28, mRNA
+Sequence ID: gi|1034581535|XM_011521020.2 Length: 13606
+Range 1: 530 to 542
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  6    GCCATCGACGCAG  18
+            |||||||||||||
+Sbjct  530  GCCATCGACGCAG  542
+
+
+
+
+>PREDICTED: Homo sapiens gamma-aminobutyric acid type A receptor subunit delta (GABRD), transcript variant X1, mRNA
+Sequence ID: gi|1034557442|XM_017000936.1 Length: 4971
+Range 1: 4403 to 4415
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  7     CCATCGACGCAGA  19
+             |||||||||||||
+Sbjct  4403  CCATCGACGCAGA  4415
+
+
+
+
+>Homo sapiens chromosome 13, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815585|NC_000013.11 Length: 114364328
+Range 1: 44898973 to 44898989
+
+Score:26.3 bits(13), Expect:336, 
+Identities:16/17(94%),  Gaps:0/17(0%), Strand: Plus/Plus
+
+Query  2         AAATGCCATCGACGCAG  18
+                 ||||| |||||||||||
+Sbjct  44898973  AAATGTCATCGACGCAG  44898989
+
+
+
+
+Range 2: 66548872 to 66548884
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  66548872  AAAATGCCATCGA  66548884
+
+
+
+
+Range 3: 68930406 to 68930418
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  68930406  ACGCAGAAAATCA  68930418
+
+
+
+
+Range 4: 94974760 to 94974772
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  94974760  AAAATGCCATCGA  94974772
+
+
+
+
+Range 5: 25717900 to 25717912
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  25717912  AAAATGCCATCGA  25717900
+
+
+
+
+Range 6: 59091468 to 59091480
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  59091480  AAAATGCCATCGA  59091468
+
+
+
+
+Range 7: 107998223 to 107998235
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  13         ACGCAGAAAATCA  25
+                  |||||||||||||
+Sbjct  107998235  ACGCAGAAAATCA  107998223
+
+
+
+
+>Homo sapiens chromosome 15, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815583|NC_000015.10 Length: 101991189
+Range 1: 33762352 to 33762364
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  33762352  AAATGCCATCGAC  33762364
+
+
+
+
+Range 2: 47776073 to 47776085
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  47776073  AAATGCCATCGAC  47776085
+
+
+
+
+>Homo sapiens chromosome 16, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815582|NC_000016.10 Length: 90338345
+Range 1: 21084870 to 21084882
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  21084870  AAATGCCATCGAC  21084882
+
+
+
+
+Range 2: 49611102 to 49611114
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  13        ACGCAGAAAATCA  25
+                 |||||||||||||
+Sbjct  49611102  ACGCAGAAAATCA  49611114
+
+
+
+
+Range 3: 86427712 to 86427724
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  86427712  AAAATGCCATCGA  86427724
+
+
+
+
+Range 4: 4141700 to 4141712
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  12       GACGCAGAAAATC  24
+                |||||||||||||
+Sbjct  4141712  GACGCAGAAAATC  4141700
+
+
+
+
+Range 5: 54539471 to 54539483
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  2         AAATGCCATCGAC  14
+                 |||||||||||||
+Sbjct  54539483  AAATGCCATCGAC  54539471
+
+
+
+
+Range 6: 69899837 to 69899849
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  69899849  AAAATGCCATCGA  69899837
+
+
+
+
+>Homo sapiens chromosome Y, GRCh38.p13 Primary Assembly
+Sequence ID: gi|568815574|NC_000024.10 Length: 57227415
+Range 1: 24057909 to 24057921
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Plus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  24057909  AAAATGCCATCGA  24057921
+
+
+
+
+Range 2: 25612210 to 25612222
+
+Score:26.3 bits(13), Expect:336, 
+Identities:13/13(100%),  Gaps:0/13(0%), Strand: Plus/Minus
+
+Query  1         AAAATGCCATCGA  13
+                 |||||||||||||
+Sbjct  25612222  AAAATGCCATCGA  25612210
+
+
+
+
+
+
+
+		
+
+
