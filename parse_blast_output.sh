@@ -1,5 +1,5 @@
-###-----------
 
+# make the analysis directory and generate the relevant .txt files
 mkdir analysis
 for eachfile in *-Alignment.txt
 do
@@ -12,4 +12,5 @@ do
     	rm tempp_*
 done
 
+# run the main.py file to generate the "_output" files
 python3 main.py
